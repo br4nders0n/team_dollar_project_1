@@ -1,1 +1,3 @@
-# team_dollar_project_1
+# Congressional Members & Market Performance
+
+## Brandon Anderson, Nirvana Ganpat, Mike Nackoul, & Jordi Salas
