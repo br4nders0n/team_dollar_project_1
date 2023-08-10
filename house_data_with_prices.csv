@@ -1,0 +1,1147 @@
+transaction_date,transaction_year,ticker,asset_description,type,amount_low,amount_high,amount_avg,representative,district,state,cap_gains_over_200_usd,industry,sector,party,ticker_price,qqq_price
+12/21/22,2022,GOOGL,Alphabet Inc- Class A - Sold 10K shares,purchase,500001,1000000,750001,Nancy Pelosi,CA12,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,89.58,273.450012
+12/20/22,2022,AMD,Advanced Micro Devices Inc,purchase,1001,15000,8001,John Curtis,UT03,UT,FALSE,Semiconductors,Technology,Republican,65.05,269.540009
+12/20/22,2022,GOOGL,Alphabet Inc- Class A - Sold 10K shares,purchase,500001,1000000,750001,Nancy Pelosi,CA12,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,65.05,269.540009
+12/20/22,2022,ADP,Automatic Data Processing Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,65.05,269.540009
+12/14/22,2022,ATVI,Activision Blizzard Inc,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,77.04,286.51001
+12/13/22,2022,IBM,International Business Machines,purchase,1001,15000,8001,Lloyd Doggett,TX35,TX,FALSE,Computer Manufacturing,Technology,Democrat,150.57,288.649994
+12/12/22,2022,ATVI,Activision Blizzard Inc,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,77.36,285.579987
+12/12/22,2022,ATVI,Activison Blizzard Inc,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,77.36,285.579987
+12/9/22,2022,GTLS,Chart Industries Inc,purchase,15001,50000,32501,Alan S. Lowenthal,CA47,CA,FALSE,Electrical Products,Technology,Democrat,117.2,282.040009
+12/8/22,2022,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,247.4,283.850006
+12/6/22,2022,SHLS,Shoals Technolgies Group - Inc. Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,24,281.679993
+12/1/22,2022,INTC,Intel Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,29.83,293.720001
+11/23/22,2022,ORCL,Oracle Inc,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,82.56,288.820007
+11/21/22,2022,TWKS,Thoughtworks Holding Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,8.34,281.890015
+11/18/22,2022,NTAP,NetApp Inc Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,73.72,284.820007
+11/18/22,2022,NTAP,NetApp Inc Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,73.72,284.820007
+11/18/22,2022,NTAP,NetApp Inc Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,73.72,284.820007
+11/17/22,2022,AAPL,Apple Inc,purchase,1001,15000,8001,Robert J. Wittman,VA01,VA,FALSE,Computer Manufacturing,Technology,Republican,150.72,284.809998
+11/15/22,2022,TXN,Texas Instruments Incorporated,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,177.57,289.390015
+11/14/22,2022,FLYW,Flywire Corporation - Voting,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,22.47,285.440002
+11/11/22,2022,TXN,Texas Instruments Incorporated,purchase,15001,50000,32501,Carol Devine Miller,WV03,WV,FALSE,Semiconductors,Technology,Republican,179.49,287.959991
+11/10/22,2022,AAPL,Apple Inc,purchase,1001,15000,8001,Ed Perlmutter,CO07,CO,FALSE,Computer Manufacturing,Technology,Democrat,146.87,282.75
+11/9/22,2022,NOW,ServiceNow Inc,purchase,1001,15000,8001,William R. Keating,MA09,MA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,361.27,263.320007
+11/8/22,2022,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,228.87,269.540009
+11/8/22,2022,TXN,Texas Instruments Inc,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Semiconductors,Technology,Democrat,228.87,269.540009
+11/8/22,2022,AVGO,Broadcom Inc,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Semiconductors,Technology,Democrat,228.87,269.540009
+11/7/22,2022,NTAP,NetApp Inc Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,69.39,267.589996
+11/7/22,2022,NTAP,NetApp Inc Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,69.39,267.589996
+11/7/22,2022,NTAP,NetApp Inc Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,69.39,267.589996
+11/2/22,2022,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,136.83,265.679993
+11/1/22,2022,SQ,Block Inc Class A Common Stock,purchase,50001,100000,75001,James R. Langevin,RI02,RI,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,59,275.109985
+10/28/22,2022,AAPL,Apple Inc,purchase,15001,50000,32501,Earl Blumenauer,OR03,OR,FALSE,Computer Manufacturing,Technology,Democrat,155.74,281.220001
+10/25/22,2022,GOOG,Alphabet Inc - Class C Capital Stock,purchase,1001,15000,8001,Dan Crenshaw,TX02,TX,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,104.93,284.209991
+10/25/22,2022,AAPL,Apple Inc,purchase,1001,15000,8001,Dan Crenshaw,TX02,TX,FALSE,Computer Manufacturing,Technology,Republican,104.93,284.209991
+10/25/22,2022,FB,Meta Platforms Inc - Class A,purchase,1001,15000,8001,Dan Crenshaw,TX02,TX,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,104.93,284.209991
+10/21/22,2022,ADBE,Adobe Inc,purchase,1001,15000,8001,John Curtis,UT03,UT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,306.37,275.420013
+10/19/22,2022,AAPL,Apple Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,143.86,270.48999
+10/19/22,2022,TTD,The Trade Desk Inc - Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,143.86,270.48999
+10/17/22,2022,CTSH,Cognizant Technology Solutions Corporation - Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,59.88,269.350006
+10/17/22,2022,MDB,MongoDB Inc - Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Retail: Computer Software & Peripheral Equipment,Technology,Democrat,59.88,269.350006
+10/17/22,2022,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,59.88,269.350006
+10/17/22,2022,CRM,Salesforce Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,59.88,269.350006
+10/12/22,2022,GOOGL,Alphabet Inc - Class A,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,97.56,262.660004
+10/12/22,2022,AMAT,Applied Materials Inc,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Semiconductors,Technology,Democrat,97.56,262.660004
+10/12/22,2022,INTC,Intel Corporation,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Semiconductors,Technology,Democrat,97.56,262.660004
+10/12/22,2022,INTU,Intuit Inc,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,97.56,262.660004
+10/12/22,2022,MSFT,Micrsoft Corporation,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,97.56,262.660004
+10/12/22,2022,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Semiconductors,Technology,Democrat,97.56,262.660004
+10/12/22,2022,CRM,Salesforce Inc,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,97.56,262.660004
+10/12/22,2022,TXN,Texas Instruments Inc,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Semiconductors,Technology,Democrat,97.56,262.660004
+10/11/22,2022,AMD,Advanced Micro Devices Inc,purchase,15001,50000,32501,Thomas Suozzi,NY03,NY,FALSE,Semiconductors,Technology,Democrat,57.63,262.75
+9/30/22,2022,COIN,Coinbase Global Inc,purchase,1001,15000,8001,Garret Graves,LA06,LA,FALSE,EDP Services,Technology,Republican,64.49,267.26001
+9/27/22,2022,FLYW,Flywire Corporation - Voting,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,22.38,274.480011
+9/26/22,2022,AMD,Advanced Micro Devices,purchase,1001,15000,8001,Thomas Suozzi,NY03,NY,FALSE,Semiconductors,Technology,Democrat,66.3,274.369995
+9/26/22,2022,NVDA,NVIDIA,purchase,15001,50000,32501,Thomas Suozzi,NY03,NY,FALSE,Semiconductors,Technology,Democrat,66.3,274.369995
+9/26/22,2022,AMD,Advanced Micro Devices,purchase,1001,15000,8001,Thomas Suozzi,NY03,NY,FALSE,Semiconductors,Technology,Democrat,66.3,274.369995
+9/26/22,2022,AMD,Advanced Micro Devices,purchase,15001,50000,32501,Thomas Suozzi,NY03,NY,FALSE,Semiconductors,Technology,Democrat,66.3,274.369995
+9/26/22,2022,NVDA,NVIDIA Corporation,purchase,15001,50000,32501,Thomas Suozzi,NY03,NY,FALSE,Semiconductors,Technology,Democrat,66.3,274.369995
+9/26/22,2022,ADP,Automatic Data Processing INC,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,66.3,274.369995
+9/22/22,2022,CRM,Salesforce Inc,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,150.15,280.070007
+9/16/22,2022,GOOG,Alphabet Inc - Class C capital stock. Excercised 200 call options purchased 12/17/21 (20k shares) at $100 strike with expiry of 9/16/22,purchase,1000001,5000000,3000001,Nancy Pelosi,CA12,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,103.63,289.320007
+9/13/22,2022,CSCO,Cisco Systems Inc,purchase,15001,50000,32501,Scott Franklin,FL15,FL,FALSE,Computer Communications Equipment,Technology,Republican,44.11,293.700012
+9/13/22,2022,CSCO,Cisco Systems Inc,purchase,1001,15000,8001,Scott Franklin,FL15,FL,FALSE,Computer Communications Equipment,Technology,Republican,44.11,293.700012
+9/13/22,2022,MSFT,Microsoft Corporation,purchase,15001,50000,32501,Scott Franklin,FL15,FL,FALSE,Computer Software: Prepackaged Software,Technology,Republican,44.11,293.700012
+9/12/22,2022,IBM,International Business Machines,purchase,1001,15000,8001,Lloyd Doggett,TX35,TX,FALSE,Computer Manufacturing,Technology,Democrat,130.66,310.73999
+9/12/22,2022,ADI,Analog Devices Inc,purchase,1001,15000,8001,Lois Frankel,FL21,FL,FALSE,Semiconductors,Technology,Democrat,130.66,310.73999
+9/6/22,2022,AAPL,Apple Inc,purchase,1001,15000,8001,Bob Gibbs,OH07,OH,FALSE,Computer Manufacturing,Technology,Republican,154.53,293.049988
+9/6/22,2022,AAPL,Apple Inc,purchase,1001,15000,8001,Bob Gibbs,OH07,OH,FALSE,Computer Manufacturing,Technology,Republican,154.53,293.049988
+8/26/22,2022,AAPL,Apple Inc,purchase,1001,15000,8001,Robert B. Aderholt,AL04,AL,FALSE,Computer Manufacturing,Technology,Republican,163.62,307.440002
+8/25/22,2022,ASML,ASML Holding NV New York Registry Shares,purchase,50001,100000,75001,Kevin Hern,OK01,OK,FALSE,Industrial Machinery/Components,Technology,Republican,539.74,320.579987
+8/25/22,2022,PTC,PTC INc,purchase,15001,50000,32501,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,539.74,320.579987
+8/18/22,2022,CDNS,Cadence Design Systems Inc,purchase,15001,50000,32501,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,190.73,329.279999
+8/17/22,2022,MSFT,Microsoft Corporation,purchase,100001,250000,175001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,291.32,328.48999
+8/17/22,2022,NTAP,NetApp Inc Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,291.32,328.48999
+8/17/22,2022,NTAP,NetApp Inc Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,291.32,328.48999
+8/17/22,2022,NTAP,NetApp Inc Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,291.32,328.48999
+8/16/22,2022,TXN,Texas Instruments Inc,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,183.36,332.279999
+8/12/22,2022,ADP,Automatic Data Processing Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,256.78,330.390015
+8/11/22,2022,TTWO,Take-2 Interactive,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,120.67,324.079987
+8/11/22,2022,MSFT,Microsoft Corporation - CALL @ $145 expiry 1/20/23,purchase,250001,500000,375001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,120.67,324.079987
+8/11/22,2022,MSFT,Microsoft Corporation - CALL @ $150 expiry 1/20/23,purchase,1000001,5000000,3000001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,120.67,324.079987
+8/11/22,2022,MSFT,Microsoft Corporation - CALL @ $150 expiry 1/20/23,purchase,1000001,5000000,3000001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,120.67,324.079987
+8/11/22,2022,MSFT,Microsoft Corporation - CALL @ $150 expiry 1/20/23,purchase,1000001,5000000,3000001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,120.67,324.079987
+8/11/22,2022,MSFT,Microsoft Corporation - CALL @ $155 expiry 1/20/23,purchase,250001,500000,375001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,120.67,324.079987
+8/11/22,2022,MSFT,Microsoft Corporation - CALL @ $160 expiry 1/20/23,purchase,250001,500000,375001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,120.67,324.079987
+8/11/22,2022,MSFT,Microsoft Corporation - CALL @ $150 expiry 6/16/23,purchase,1000001,5000000,3000001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,120.67,324.079987
+8/11/22,2022,MSFT,Microsoft Corporation - CALL @ $155 expiry 6/16/23,purchase,1000001,5000000,3000001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,120.67,324.079987
+8/10/22,2022,GOOG,Alphabet Inc -  Class C Capital Stock,purchase,1001,15000,8001,Robert J. Wittman,VA01,VA,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,120.65,325.929993
+8/10/22,2022,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Robert J. Wittman,VA01,VA,FALSE,Computer Software: Prepackaged Software,Technology,Republican,120.65,325.929993
+8/9/22,2022,MSI,Motorola Solutions Inc,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,249.25,317.079987
+8/9/22,2022,SQ,Block Inc Class A Common Stock,purchase,50001,100000,75001,James R. Langevin,RI02,RI,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,249.25,317.079987
+8/8/22,2022,ATVI,Activision Blizzard Inc,purchase,1001,15000,8001,Seth Moulton,MA06,MA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,81,320.709991
+8/4/22,2022,NTAP,NetApp Inc Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,72.11,324.399994
+8/4/22,2022,NTAP,NetApp Inc Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,72.11,324.399994
+8/4/22,2022,NTAP,NetApp Inc Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,72.11,324.399994
+8/1/22,2022,MSI,Motorola Solutions Inc,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,236.63,315.269989
+7/26/22,2022,TTWO,Take-2 Interactive,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,131.1,294.369995
+7/21/22,2022,CRM,Salesforce In,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,185.35,307.380005
+7/19/22,2022,NTAP,NetApp Inc Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,68.31,298.299988
+7/19/22,2022,NTAP,NetApp Inc Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,68.31,298.299988
+7/19/22,2022,NTAP,NetApp Inc Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,68.31,298.299988
+7/19/22,2022,NTAP,NetApp Inc Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,68.31,298.299988
+7/19/22,2022,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,68.31,298.299988
+7/15/22,2022,AAPL,Apple Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,150.17,291.869995
+7/15/22,2022,INTU,Intuit Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,150.17,291.869995
+7/15/22,2022,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,150.17,291.869995
+7/15/22,2022,ORCL,Oracle Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,150.17,291.869995
+7/8/22,2022,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Pete Sessions,TX17,TX,FALSE,Semiconductors,Technology,Republican,158.38,295.350006
+6/28/22,2022,CRM,Salesforce Inc,purchase,1001,15000,8001,John Curtis,UT03,UT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,171.46,283.540009
+6/17/22,2022,NVDA,NVIDIA Corporation - Excercised 200 CALL options (20K shares) @ $100 expiry 06/17/22,purchase,1000001,5000000,3000001,Nancy Pelosi,CA12,CA,FALSE,Semiconductors,Technology,Democrat,158.8,274.690002
+6/14/22,2022,CTXS,Citrix Systems Cloud computing,purchase,1001,15000,8001,Diana Harshbarger,TN01,TN,FALSE,Computer Software: Prepackaged Software,Technology,Republican,92.41,275.910004
+6/13/22,2022,SQ,Block Inc Class A Common Stock,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,62.76,275.410004
+6/13/22,2022,FB,Meta Platforms Inc Class A,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,62.76,275.410004
+6/10/22,2022,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Lloyd Doggett,TX35,TX,FALSE,Computer Manufacturing,Technology,Democrat,136.19,288.839996
+6/10/22,2022,INTC,Intel Corporation,purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,Semiconductors,Technology,Republican,136.19,288.839996
+6/9/22,2022,SQ,Block Inc Class A Common Stock,purchase,50001,100000,75001,James R. Langevin,RI02,RI,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,76.58,299.399994
+6/9/22,2022,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,76.58,299.399994
+6/8/22,2022,ORCL,Oracle Corp,purchase,1001,15000,8001,Diana Harshbarger,TN01,TN,FALSE,Computer Software: Prepackaged Software,Technology,Republican,71.38,307.640015
+6/8/22,2022,ORCL,Oracle Corp,purchase,1001,15000,8001,Diana Harshbarger,TN01,TN,FALSE,Computer Software: Prepackaged Software,Technology,Republican,71.38,307.640015
+6/7/22,2022,ORCL,Oracle Corp,purchase,1001,15000,8001,Diana Harshbarger,TN01,TN,FALSE,Computer Software: Prepackaged Software,Technology,Republican,72.69,309.869995
+6/6/22,2022,NTAP,NetApp Inc,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,70.87,307.220001
+6/6/22,2022,NTAP,NetApp Inc,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,70.87,307.220001
+6/6/22,2022,NTAP,NetApp Inc,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,70.87,307.220001
+6/3/22,2022,FB,Meta Platforms Inc Class A,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,190.78,306.200012
+6/3/22,2022,SHOP,Shopify Inc,purchase,250001,500000,375001,Michael F. Q. San Nicolas,GU00,GU,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,190.78,306.200012
+6/3/22,2022,SHOP,Shopify Inc,purchase,250001,500000,375001,Michael F. Q. San Nicolas,GU00,GU,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,190.78,306.200012
+6/1/22,2022,FB,Meta Platforms Inc Class A,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,188.64,306
+6/1/22,2022,INTC,Intel Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,188.64,306
+5/27/22,2022,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,188.11,309.100006
+5/27/22,2022,ASML,ASML Holding NV New York Registry Shares,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Industrial Machinery/Components,Technology,Democrat,188.11,309.100006
+5/27/22,2022,NOW,ServiceNow Inc,purchase,15001,50000,32501,Kathy Manning,NC06,NC,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,188.11,309.100006
+5/26/22,2022,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,136.89,299.329987
+5/24/22,2022,AAPL,Apple Inc - 50 Call options strike of $80 expires 6/16/23,purchase,250001,500000,375001,Nancy Pelosi,CA12,CA,FALSE,Computer Manufacturing,Technology,Democrat,140.36,287.23999
+5/24/22,2022,MSFT,Microsoft Corporation - 10 Call options strike of $180 expires 6/16/23,purchase,50001,100000,75001,Nancy Pelosi,CA12,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,140.36,287.23999
+5/24/22,2022,MSFT,Microsoft Corporation - 40 Call options strike of $180 expires 6/16/23,purchase,250001,500000,375001,Nancy Pelosi,CA12,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,140.36,287.23999
+5/17/22,2022,TXN,Texas Instruments Incorporated,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,174.98,306.170013
+5/13/22,2022,AAPL,Apple Inc - 100 Call options strike of $80 expires 3/17/23,purchase,500001,1000000,750001,Nancy Pelosi,CA12,CA,FALSE,Computer Manufacturing,Technology,Democrat,147.09,301.940002
+5/11/22,2022,AAPL,Apple Inc,purchase,1001,15000,8001,Bob Gibbs,OH07,OH,FALSE,Computer Manufacturing,Technology,Republican,146.5,291.839996
+5/11/22,2022,SQ,Block Inc - Class A Common Stock,purchase,15001,50000,32501,James R. Langevin,RI02,RI,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,146.5,291.839996
+4/29/22,2022,ASML,ASML Holding NV - New York Registry Shares,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Industrial Machinery/Components,Technology,Democrat,563.77,313.25
+4/27/22,2022,CTSH,Cognizant Technology Solutions Corporation - Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,82.84,316.76001
+4/27/22,2022,FB,Meta Platforms Inc -  Class A,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,82.84,316.76001
+4/27/22,2022,FB,Meta Platforms Inc -  Class A,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,82.84,316.76001
+4/27/22,2022,NOW,ServiceNow Inc,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,82.84,316.76001
+4/19/22,2022,AAPL,Apple Inc,purchase,15001,50000,32501,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,167.4,346.26001
+4/19/22,2022,CRNC,Cerence Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,167.4,346.26001
+4/19/22,2022,INTU,Intuit Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,167.4,346.26001
+4/13/22,2022,TWKS,Thoughtworks Holding Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,20.54,346.350006
+4/6/22,2022,NXPI,NXP Semiconductors NV,purchase,1001,15000,8001,Lois Frankel,FL21,FL,FALSE,Semiconductors,Technology,Democrat,173.96,353.26001
+4/6/22,2022,SQ,Block Inc Class A Common Stock,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,173.96,353.26001
+4/6/22,2022,FB,Meta Platforms Inc -  Class A,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,173.96,353.26001
+3/31/22,2022,TXN,Texas Instruments Incorporated,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,183.48,362.540009
+3/30/22,2022,INTC,Intel Corporation,purchase,1001,15000,8001,Dwight Evans,PA03,PA,FALSE,Semiconductors,Technology,Democrat,51.43,367.089996
+3/29/22,2022,CTSH,Cognizant Technology Solutions Corporation - Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,92.73,371.190002
+3/22/22,2022,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Pete Sessions,TX17,TX,FALSE,Semiconductors,Technology,Republican,265.24,356.959991
+3/21/22,2022,GOOGL,Alphabet Inc,purchase,15001,50000,32501,Scott Franklin,FL15,FL,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,2722.03,350.079987
+3/21/22,2022,AAPL,Apple Inc,purchase,15001,50000,32501,Scott Franklin,FL15,FL,FALSE,Computer Manufacturing,Technology,Republican,2722.03,350.079987
+3/21/22,2022,CSCO,Cisco Systems Inc,purchase,100001,250000,175001,Scott Franklin,FL15,FL,FALSE,Computer Communications Equipment,Technology,Republican,2722.03,350.079987
+3/21/22,2022,MSFT,Microsoft Corp,purchase,100001,250000,175001,Scott Franklin,FL15,FL,FALSE,Computer Software: Prepackaged Software,Technology,Republican,2722.03,350.079987
+3/15/22,2022,TWKS,Thoughtworks Holding Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,20.09,328.149994
+3/10/22,2022,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,285.59,331.269989
+3/10/22,2022,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Lloyd Doggett,TX35,TX,FALSE,Computer Manufacturing,Technology,Democrat,285.59,331.269989
+3/9/22,2022,TXN,Texas Instruments Incorporated,purchase,1001,15000,8001,Lois Frankel,FL21,FL,FALSE,Semiconductors,Technology,Democrat,172.46,334.98999
+3/9/22,2022,GOOG,Alphabet Inc - Class C Capital Stock,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,172.46,334.98999
+3/9/22,2022,AAPL,Apple Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,172.46,334.98999
+3/9/22,2022,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,172.46,334.98999
+3/9/22,2022,ORCL,Oracle Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,172.46,334.98999
+3/8/22,2022,NOW,ServiceNow Inc,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,518.2,323.350006
+3/4/22,2022,AMD,Advanced Micro Devices Inc,purchase,15001,50000,32501,Thomas Suozzi,NY03,NY,FALSE,Semiconductors,Technology,Democrat,108.41,337.299988
+3/4/22,2022,ETN,Eaton Corporation PLC Ordinary Shares,purchase,15001,50000,32501,Thomas Suozzi,NY03,NY,FALSE,Industrial Machinery/Components,Technology,Democrat,108.41,337.299988
+3/4/22,2022,NVDA,NVIDIA Corporation,purchase,15001,50000,32501,Thomas Suozzi,NY03,NY,FALSE,Semiconductors,Technology,Democrat,108.41,337.299988
+3/4/22,2022,CTSH,Cognizant Technology Solutions Corporation - Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,108.41,337.299988
+3/3/22,2022,ASML,ASML Holding NV - New York Registry Shares,purchase,15001,50000,32501,Kathy Manning,NC06,NC,FALSE,Industrial Machinery/Components,Technology,Democrat,630.79,342.26001
+3/1/22,2022,INTC,Intel Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,46.82,341.48999
+2/24/22,2022,BLKB,"Blackbaud Inc - Stock purchased in error, sold once alerted",purchase,1001,15000,8001,Earl Blumenauer,OR03,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,62.45,340.48999
+2/24/22,2022,CSCO,"Cisco Systems Inc - Stock purchased in error, sold once alerted",purchase,1001,15000,8001,Earl Blumenauer,OR03,OR,FALSE,Computer Communications Equipment,Technology,Democrat,62.45,340.48999
+2/24/22,2022,FLEX,"Flex Ltd - Ordinary Shares - Stock purchased in error, sold once alerted",purchase,1001,15000,8001,Earl Blumenauer,OR03,OR,FALSE,Electrical Products,Technology,Democrat,62.45,340.48999
+2/24/22,2022,INTC,"Intel Corporation - Stock purchased in error, sold once alerted",purchase,1001,15000,8001,Earl Blumenauer,OR03,OR,FALSE,Semiconductors,Technology,Democrat,62.45,340.48999
+2/24/22,2022,QCOM,"Qualcomm Incorporated  - Stock purchased in error, sold once alerted",purchase,1001,15000,8001,Earl Blumenauer,OR03,OR,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,62.45,340.48999
+2/24/22,2022,CRM,"Salesforce.com  - Stock purchased in error, sold once alerted",purchase,1001,15000,8001,Earl Blumenauer,OR03,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,62.45,340.48999
+2/24/22,2022,SAP,"SAP SE ADS  - Stock purchased in error, sold once alerted",purchase,1001,15000,8001,Earl Blumenauer,OR03,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,62.45,340.48999
+2/24/22,2022,AAPL,Apple Inc,purchase,1001,15000,8001,Billy Long,MO07,MO,FALSE,Computer Manufacturing,Technology,Republican,62.45,340.48999
+2/23/22,2022,AAPL,Apple Inc,purchase,1001,15000,8001,Pete Sessions,TX17,TX,FALSE,Computer Manufacturing,Technology,Republican,160.24,329.420013
+2/23/22,2022,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Pete Sessions,TX17,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,160.24,329.420013
+2/22/22,2022,AMD,Advanced Micro Devices,purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,Semiconductors,Technology,Republican,115.65,338.079987
+2/22/22,2022,ADP,Automatic Data Processing Inc,purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,EDP Services,Technology,Republican,115.65,338.079987
+2/22/22,2022,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Semiconductors,Technology,Democrat,115.65,338.079987
+2/18/22,2022,ADBE,Adobe Inc,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,442.56,341.51001
+2/18/22,2022,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Semiconductors,Technology,Democrat,442.56,341.51001
+2/18/22,2022,NOW,ServiceNow Inc,purchase,15001,50000,32501,Kathy Manning,NC06,NC,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,442.56,341.51001
+2/17/22,2022,SNAP,Snap Inc Class A,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,39.45,345.450012
+2/14/22,2022,NTAP,NetApp Inc.,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,87.79,347.48999
+2/14/22,2022,NTAP,NetApp Inc.,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,87.79,347.48999
+2/14/22,2022,NTAP,NetApp Inc.,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,87.79,347.48999
+2/11/22,2022,GOOGL,Alphabet Inc - Class A,purchase,15001,50000,32501,Earl Blumenauer,OR03,OR,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,2685.65,347.059998
+2/11/22,2022,GOOGL,Alphabet Inc - Class A,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,2685.65,347.059998
+2/10/22,2022,MSFT,Microsoft Corporation - Call Option Strike $160 - expiry 9/16/2022,purchase,500001,1000000,750001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,302.38,358.429993
+2/10/22,2022,MSFT,Microsoft Corporation - Call Option Strike $150 - expiry 9/16/2022,purchase,1000001,5000000,3000001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,302.38,358.429993
+2/10/22,2022,MSFT,Microsoft Corporation - Call Option Strike $145 - expiry 9/16/2022,purchase,500001,1000000,750001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,302.38,358.429993
+2/10/22,2022,ATVI,Activision Blizzard,purchase,1001,15000,8001,Richard W. Allen,GA12,GA,FALSE,Computer Software: Prepackaged Software,Technology,Republican,302.38,358.429993
+2/10/22,2022,ATVI,Activision Blizzard,purchase,1001,15000,8001,Richard W. Allen,GA12,GA,FALSE,Computer Software: Prepackaged Software,Technology,Republican,302.38,358.429993
+2/10/22,2022,MRVL,Marvell Technology Inc,purchase,1001,15000,8001,Ron Estes,KS04,KS,FALSE,Semiconductors,Technology,Republican,302.38,358.429993
+2/9/22,2022,ENPH,Enphase Energy Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Electrical Products,Technology,Democrat,161.89,366.730011
+2/9/22,2022,NXPI,NXP Semiconductors NV,purchase,1001,15000,8001,Lois Frankel,FL21,FL,FALSE,Semiconductors,Technology,Democrat,161.89,366.730011
+2/9/22,2022,MSFT,Forward Contract provides sale of MSFT Common Stock following the vesting of RSU every six months through 2024,purchase,5000001,25000000,15000001,Suzan K. DelBene,WA01,WA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,161.89,366.730011
+2/9/22,2022,AMD,Advanced Micro Devices,purchase,1001,15000,8001,David Kustoff,TN08,TN,FALSE,Semiconductors,Technology,Republican,161.89,366.730011
+2/7/22,2022,TXN,Texas Instruments Incorprated,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,169.95,355.130005
+2/7/22,2022,MSFT,Microsoft Corporation,purchase,1001,15000,8001,David Kustoff,TN08,TN,FALSE,Computer Software: Prepackaged Software,Technology,Republican,169.95,355.130005
+2/3/22,2022,INTU,Intuit Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,535.59,353.549988
+2/2/22,2022,GOOGL,Alphabet Inc - Class A,purchase,15001,50000,32501,Bob Gibbs,OH07,OH,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,2960,368.48999
+2/2/22,2022,SQ,Block Inc - Class A Common Stock,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,2960,368.48999
+2/2/22,2022,SQ,Block Inc - Class A Common Stock,purchase,50001,100000,75001,James R. Langevin,RI02,RI,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,2960,368.48999
+1/28/22,2022,AAPL,Apple Inc,purchase,1001,15000,8001,Robert J. Wittman,VA01,VA,FALSE,Computer Manufacturing,Technology,Republican,170.33,351.799988
+1/28/22,2022,FB,Meta Platforms Inc - Class A,purchase,1001,15000,8001,Robert J. Wittman,VA01,VA,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,170.33,351.799988
+1/27/22,2022,NTAP,NetApp Inc Common Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,83.83,341.100006
+1/27/22,2022,NTAP,NetApp Inc Common Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,83.83,341.100006
+1/27/22,2022,NTAP,NetApp Inc Common Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,83.83,341.100006
+1/26/22,2022,FB,Meta Platforms Inc - Class A,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,294.63,344.570007
+1/25/22,2022,MSFT,Microsoft Corporation - Call Options $145 strike Expire 09/16/2022,purchase,50001,100000,75001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,288.49,345.109985
+1/24/22,2022,ORCL,Oracle Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,82.42,353.299988
+1/21/22,2022,AAPL,Apple Inc,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Computer Manufacturing,Technology,Republican,162.41,351.690002
+1/21/22,2022,SQ,Block Inc - Class A common stock,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,162.41,351.690002
+1/21/22,2022,AAPL,Apple Inc - Excercised 100 Call options (10K shares) expiry 01/21/2022 @ $100,purchase,1000001,5000000,3000001,Nancy Pelosi,CA12,CA,FALSE,Computer Manufacturing,Technology,Democrat,162.41,351.690002
+1/5/22,2022,MSFT,Microsoft Corporation,purchase,15001,50000,32501,Virginia Foxx,NC05,NC,FALSE,Computer Software: Prepackaged Software,Technology,Republican,316.38,384.290009
+1/4/22,2022,COIN,Coinbase Global Inc - Class A,purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,EDP Services,Technology,Democrat,250.15,396.470001
+1/3/22,2022,AVGO,Broadcom Inc,purchase,15001,50000,32501,Virginia Foxx,NC05,NC,FALSE,Semiconductors,Technology,Republican,663.32,401.679993
+1/3/22,2022,MSI,Motorola Solutions Inc,purchase,15001,50000,32501,Virginia Foxx,NC05,NC,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Republican,663.32,401.679993
+12/31/21,2021,SNAP,Snap Inc - Class A,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,47.03,397.850006
+12/30/21,2021,AAPL,Apple Inc,purchase,15001,50000,32501,Deborah K. Ross,NC02,NC,FALSE,Computer Manufacturing,Technology,Democrat,178.2,400.350006
+12/30/21,2021,FB,Meta Platforms Inc - Class A,purchase,15001,50000,32501,Deborah K. Ross,NC02,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,178.2,400.350006
+12/23/21,2021,QMCO,Quantum Corporation,purchase,1001,15000,8001,Debbie Wasserman Schultz,FL23,FL,FALSE,Electronic Components,Technology,Democrat,5.19,396.920013
+12/23/21,2021,QMCO,Quantum Corporation,purchase,1001,15000,8001,Debbie Wasserman Schultz,FL23,FL,FALSE,Electronic Components,Technology,Democrat,5.19,396.920013
+12/23/21,2021,QMCO,Quantum Corporation,purchase,1001,15000,8001,Debbie Wasserman Schultz,FL23,FL,FALSE,Electronic Components,Technology,Democrat,5.19,396.920013
+12/22/21,2021,AAPL,Apple Inc,purchase,1001,15000,8001,Bob Gibbs,OH07,OH,FALSE,Computer Manufacturing,Technology,Republican,175.64,393.950012
+12/21/21,2021,MU,Micron Technology Inc - 100 CALL opts with strike of $50 expiry 9/16/22,purchase,250001,500000,375001,Nancy Pelosi,CA12,CA,FALSE,Semiconductors,Technology,Democrat,90.68,389.209991
+12/20/21,2021,CRM,Salesforce.com Inc - 100 CALL options with strike $210 expiry 1/20/23,purchase,500001,1000000,750001,Nancy Pelosi,CA12,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,247.21,380.690002
+12/20/21,2021,CRM,Salesforce.com Inc - 30 CALL options with strike $210 expiry 1/20/23,purchase,100001,250000,175001,Nancy Pelosi,CA12,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,247.21,380.690002
+12/17/21,2021,GOOG,Alphabet Inc - Class C Capital - 10 CALL opts with strike of $2000 expiry 9/16/22,purchase,500001,1000000,750001,Nancy Pelosi,CA12,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,2856.06,384.910004
+12/16/21,2021,SQ,Block Inc Class A Common Stock,purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,Computer Software: Prepackaged Software,Technology,Republican,165.88,386.839996
+12/14/21,2021,AAPL,Apple Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,174.33,388.200012
+12/14/21,2021,NVDA,Nvidia Corp,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Semiconductors,Technology,Democrat,174.33,388.200012
+12/10/21,2021,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Lloyd Doggett,TX35,TX,FALSE,Computer Manufacturing,Technology,Democrat,124.09,398.01001
+12/9/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,333.1,393.730011
+12/2/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Michael C. Burgess,TX26,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,329.49,389.910004
+11/26/21,2021,AMD,Advanced Micro Devices,purchase,1001,15000,8001,David Kustoff,TN08,TN,FALSE,Semiconductors,Technology,Republican,154.81,391.200012
+11/26/21,2021,INTC,Intel Corporation,purchase,15001,50000,32501,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,154.81,391.200012
+11/24/21,2021,MSFT,Microsoft Corporation,purchase,50001,100000,75001,Thomas Suozzi,NY03,NY,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,337.91,398.76001
+11/24/21,2021,ON,ON Semiconductor Corporation,purchase,1001,15000,8001,Aston Donald McEachin,VA04,VA,FALSE,Semiconductors,Technology,Democrat,337.91,398.76001
+11/24/21,2021,NXPI,NXP Semiconductor NV,purchase,1001,15000,8001,Aston Donald McEachin,VA04,VA,FALSE,Semiconductors,Technology,Democrat,337.91,398.76001
+11/24/21,2021,TXN,Texas Instruments Incorporated,purchase,1001,15000,8001,Aston Donald McEachin,VA04,VA,FALSE,Semiconductors,Technology,Democrat,337.91,398.76001
+11/24/21,2021,CRM,Salesforce.com Inc,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,337.91,398.76001
+11/24/21,2021,SNAP,Snap Inc - Class A,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,337.91,398.76001
+11/18/21,2021,COIN,Coinbase Global Inc - Class A,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,EDP Services,Technology,Democrat,323.57,401.75
+11/16/21,2021,STM,STMicroelectronics NV,purchase,1001,15000,8001,Bob Gibbs,OH07,OH,FALSE,Semiconductors,Technology,Republican,51.45,397.420013
+11/15/21,2021,MSFT,"Microsoft Corporation - Call option, strike of $150 expires 3/18/2022",purchase,5000001,25000000,15000001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,336.07,394.609985
+11/15/21,2021,MSFT,"Microsoft Corporation - Call option, strike of $145 expires 3/18/2022",purchase,1000001,5000000,3000001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,336.07,394.609985
+11/15/21,2021,MSFT,"Microsoft Corporation - Call option, strike of $160 expires 1/21/2022",purchase,500001,1000000,750001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,336.07,394.609985
+11/15/21,2021,SNAP,Snap Inc - Class A,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,336.07,394.609985
+11/15/21,2021,TXN,Texas Instruments Incorporated,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,336.07,394.609985
+11/9/21,2021,COIN,Coinbase Global Inc - Class A,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,EDP Services,Technology,Democrat,357.39,395.320007
+11/8/21,2021,NTAP,NetApp Inc,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,91.89,398.059998
+11/8/21,2021,NTAP,NetApp Inc,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,91.89,398.059998
+11/8/21,2021,NTAP,NetApp Inc,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,91.89,398.059998
+11/3/21,2021,GOOG,Alphabet Inc - Class C Capital Stock,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,2935.8,393.179993
+10/29/21,2021,AAPL,Apple Inc,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,Computer Manufacturing,Technology,Democrat,149.8,386.109985
+10/29/21,2021,AAPL,Apple Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,149.8,386.109985
+10/29/21,2021,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,149.8,386.109985
+10/28/21,2021,AAPL,Apple Inc,purchase,250001,500000,375001,Kim Schrier,WA08,WA,FALSE,Computer Manufacturing,Technology,Democrat,152.57,384.220001
+10/28/21,2021,VMW,VMWare Inc Common Stock - Class A,purchase,1001,15000,8001,Kim Schrier,WA08,WA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,152.57,384.220001
+10/27/21,2021,ADBE,Adobe Inc,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,640.08,380
+10/27/21,2021,MSFT,Microsoft Corporation,purchase,15001,50000,32501,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,640.08,380
+10/26/21,2021,NTAP,NetApp Inc Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,90.66,379.119995
+10/25/21,2021,NTAP,NetApp Inc Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,93.1,377.929993
+10/25/21,2021,NTAP,NetApp Inc Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,93.1,377.929993
+10/20/21,2021,ITW,Illinois Tool Works Inc,purchase,15001,50000,32501,Kevin Hern,OK01,OK,FALSE,Industrial Machinery/Components,Technology,Republican,223.67,374.980011
+10/19/21,2021,AAPL,Apple Inc,purchase,50001,100000,75001,Thomas Suozzi,NY03,NY,FALSE,Computer Manufacturing,Technology,Democrat,148.76,375.470001
+10/19/21,2021,SQ,Square Inc Class A,purchase,50001,100000,75001,Thomas Suozzi,NY03,NY,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,148.76,375.470001
+10/19/21,2021,MTCH,Match Group Inc,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,148.76,375.470001
+10/19/21,2021,INTU,Intuit Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,148.76,375.470001
+10/19/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,148.76,375.470001
+10/13/21,2021,AFRM,Affirm Holdings Inc - Class A,purchase,15001,50000,32501,Thomas Suozzi,NY03,NY,FALSE,EDP Services,Technology,Democrat,146.13,360
+10/12/21,2021,NTAP,NetApp Inc Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,90.24,357.140015
+10/12/21,2021,AFRM,Affirm Holdings Inc - Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,90.24,357.140015
+10/5/21,2021,AMD,Advanced Micro Devices Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,101.81,357.380005
+10/5/21,2021,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,101.81,357.380005
+10/4/21,2021,SQ,Square Inc Class A,purchase,100001,250000,175001,Patrick Fallon,TX04,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,226.25,352.619995
+10/1/21,2021,CRWD,Crowdstrike Holdings Inc Class A,purchase,100001,250000,175001,Patrick Fallon,TX04,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,249.27,360.179993
+10/1/21,2021,CRWD,Crowdstrike Holdings Inc Class A,purchase,15001,50000,32501,Patrick Fallon,TX04,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,249.27,360.179993
+10/1/21,2021,CRWD,Crowdstrike Holdings Inc Class A,purchase,1001,15000,8001,Patrick Fallon,TX04,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,249.27,360.179993
+10/1/21,2021,CRWD,Crowdstrike Holdings Inc Class A,purchase,1001,15000,8001,Patrick Fallon,TX04,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,249.27,360.179993
+10/1/21,2021,CRWD,Crowdstrike Holdings Inc Class A,purchase,1001,15000,8001,Patrick Fallon,TX04,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,249.27,360.179993
+10/1/21,2021,CRWD,Crowdstrike Holdings Inc Class A,purchase,1001,15000,8001,Patrick Fallon,TX04,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,249.27,360.179993
+9/30/21,2021,AMAT,Applied Materials Inc,purchase,1001,15000,8001,Zoe Lofgren,CA19,CA,FALSE,Semiconductors,Technology,Democrat,128.73,357.959991
+9/30/21,2021,ASML,ASML Holding NV - New York Registry Shares,purchase,1001,15000,8001,Zoe Lofgren,CA19,CA,FALSE,Industrial Machinery/Components,Technology,Democrat,128.73,357.959991
+9/30/21,2021,CSCO,Cisco System Inc,purchase,1001,15000,8001,Zoe Lofgren,CA19,CA,FALSE,Computer Communications Equipment,Technology,Democrat,128.73,357.959991
+9/30/21,2021,QCOM,QUALCOMM Incorporated,purchase,1001,15000,8001,Zoe Lofgren,CA19,CA,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,128.73,357.959991
+9/29/21,2021,INTU,Intuit Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,546.93,359.279999
+9/28/21,2021,GOOG,Alphabet Inc - Class C Capital Stock,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,2723.68,359.869995
+9/27/21,2021,NTAP,NetApp Inc Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,93.86,370.350006
+9/27/21,2021,CARG,CarGurus Inc Class A,purchase,1001,15000,8001,Lois Frankel,FL21,FL,FALSE,Interactive Media,Technology,Democrat,93.86,370.350006
+9/24/21,2021,FOUR,Shift4 Payments Inc Class A,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,86.82,373.329987
+9/23/21,2021,COIN,Coinbase Global Inc - Class A,purchase,1001,15000,8001,Ed Perlmutter,CO07,CO,FALSE,EDP Services,Technology,Democrat,237.5,372.980011
+9/20/21,2021,CDNS,Cadence Design Systems Inc,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,160.93,365.700012
+9/16/21,2021,AVGO,BroadCom Inc,purchase,15001,50000,32501,David B. McKinley,WV01,WV,FALSE,Semiconductors,Technology,Republican,507.35,378.309998
+9/16/21,2021,AVGO,BroadCom Inc,purchase,15001,50000,32501,David B. McKinley,WV01,WV,FALSE,Semiconductors,Technology,Republican,507.35,378.309998
+9/14/21,2021,COIN,Coinbase Global Inc - Class A,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,EDP Services,Technology,Democrat,243,375.26001
+9/13/21,2021,NTAP,NetApp Inc Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,91.75,376.329987
+9/13/21,2021,NTAP,NetApp Inc Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,91.75,376.329987
+9/13/21,2021,NTAP,NetApp Inc Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,91.75,376.329987
+9/13/21,2021,MSFT,Microsoft Inc,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,91.75,376.329987
+9/13/21,2021,MDB,MongoDB Inc - Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Retail: Computer Software & Peripheral Equipment,Technology,Democrat,91.75,376.329987
+9/13/21,2021,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Lloyd Doggett,TX35,TX,FALSE,Computer Manufacturing,Technology,Democrat,91.75,376.329987
+9/10/21,2021,VMW,VMWare Inc Note - 1.4% maturity at 08/15/2026,purchase,15001,50000,32501,Alan S. Lowenthal,CA47,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,141.32,376.589996
+9/9/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,297.25,379.470001
+9/8/21,2021,MSFT,Microsoft Corporation - 30 shares,purchase,1001,15000,8001,Pete Sessions,TX17,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,300.21,380.779999
+9/8/21,2021,VMW,VMWare Inc,purchase,15001,50000,32501,Alan S. Lowenthal,CA47,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,300.21,380.779999
+9/7/21,2021,ZM,Zoom Video Communications Inc - Class A,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,299.96,382.109985
+9/2/21,2021,CDNS,Cadence Design Systems Inc,purchase,15001,50000,32501,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,165.19,380.399994
+9/2/21,2021,INTC,Intel Corporation,purchase,50001,100000,75001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,165.19,380.399994
+9/2/21,2021,PRGS,Progress Software Corporation,purchase,15001,50000,32501,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,165.19,380.399994
+9/2/21,2021,PRGS,Progress Software Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,165.19,380.399994
+9/2/21,2021,ADBE,Adobe Inc,purchase,1001,15000,8001,Zoe Lofgren,CA19,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,165.19,380.399994
+9/2/21,2021,NXPI,NXP Semiconductors NV,purchase,1001,15000,8001,Zoe Lofgren,CA19,CA,FALSE,Semiconductors,Technology,Democrat,165.19,380.399994
+9/1/21,2021,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Semiconductors,Technology,Democrat,224.41,380.579987
+8/31/21,2021,AMAT,Applied Materials Inc,purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,Semiconductors,Technology,Republican,135.13,379.950012
+8/31/21,2021,MSFT,Microsoft Corporation,purchase,5000001,25000000,15000001,Suzan K. DelBene,WA01,WA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,135.13,379.950012
+8/30/21,2021,MSFT,Microsoft Corporation,purchase,250001,500000,375001,Suzan K. DelBene,WA01,WA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,303.59,380.26001
+8/25/21,2021,TXN,Texas Instruments Incorporated,purchase,250001,500000,375001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,188.09,374.799988
+8/20/21,2021,ON,ON Semiconductor Corporation,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Semiconductors,Technology,Democrat,41.5,367.730011
+8/20/21,2021,FOUR,Shift4 Payments Inc Class A,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,41.5,367.730011
+8/19/21,2021,MSFT,Microsoft Corporation - 25 shares,purchase,1001,15000,8001,Pete Sessions,TX17,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,296.77,363.959991
+8/18/21,2021,CDNS,Cadence Design Systems Inc,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,148.02,362.209991
+8/16/21,2021,LZ,LegalZoom.com Inc,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,Interactive Media,Technology,Democrat,34.05,368.980011
+8/16/21,2021,MSFT,Microsoft Corporation - CALL Options. Strike $150 expiry 10/15/21,purchase,1000001,5000000,3000001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,34.05,368.980011
+8/16/21,2021,MSFT,Microsoft Corporation Microsoft Corporation - CALL Options. Strike $145 expiry 10/15/21,purchase,500001,1000000,750001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,34.05,368.980011
+8/16/21,2021,MSFT,Microsoft Corporation - CALL Options. Strike $150 expiry 11/19/21,purchase,500001,1000000,750001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,34.05,368.980011
+8/16/21,2021,MSFT,Microsoft Corporation - CALL Options. Strike $160 expiry 09/17/21,purchase,500001,1000000,750001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,34.05,368.980011
+8/16/21,2021,MSFT,Microsoft Corporation - CALL Options. Strike $150 expiry 9/17/21,purchase,1000001,5000000,3000001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,34.05,368.980011
+8/13/21,2021,AAPL,Apple Inc,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,Computer Manufacturing,Technology,Democrat,149.1,368.820007
+8/13/21,2021,COIN,Coinbase Global Inc - Class A,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,EDP Services,Technology,Democrat,149.1,368.820007
+8/13/21,2021,LZ,LegalZoom.com Inc,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,Interactive Media,Technology,Democrat,149.1,368.820007
+8/9/21,2021,ADBE,Adobe Inc,purchase,1001,15000,8001,Zoe Lofgren,CA19,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,629.22,368.730011
+8/9/21,2021,AMAT,Applied Materials Inc,purchase,15001,50000,32501,Zoe Lofgren,CA19,CA,FALSE,Semiconductors,Technology,Democrat,629.22,368.730011
+8/9/21,2021,NTAP,NetApp Inc,purchase,1001,15000,8001,Zoe Lofgren,CA19,CA,FALSE,Electronic Components,Technology,Democrat,629.22,368.730011
+8/9/21,2021,NXPI,NXP Semiconductors NV,purchase,1001,15000,8001,Zoe Lofgren,CA19,CA,FALSE,Semiconductors,Technology,Democrat,629.22,368.730011
+8/9/21,2021,TXN,Texas Instruments Incorporated,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,629.22,368.730011
+8/9/21,2021,MTCH,Match Group Inc,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,629.22,368.730011
+8/6/21,2021,ATVI,Activision Blizzard Inc,purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,82.43,368.049988
+8/6/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,82.43,368.049988
+8/5/21,2021,CDNS,Cadence Design Systems Inc,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,151.76,369.670013
+8/4/21,2021,AMD,Advanced Micro Devices Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,118.77,367.339996
+8/2/21,2021,FB,Facebook Inc - Class A,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,351.95,364.600006
+8/2/21,2021,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Pete Sessions,TX17,TX,FALSE,Semiconductors,Technology,Republican,351.95,364.600006
+7/30/21,2021,GOOGL,Alphabet Inc Class A,purchase,100001,250000,175001,Kevin Hern,OK01,OK,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,2694.53,364.570007
+7/28/21,2021,TXN,Texas Instruments Inc,purchase,15001,50000,32501,Carol Devine Miller,WV03,WV,FALSE,Semiconductors,Technology,Republican,186.85,365.829987
+7/27/21,2021,CSCO,Cisco Systems Inc,purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,Computer Communications Equipment,Technology,Democrat,55.28,364.429993
+7/27/21,2021,CSCO,Cisco Systems Inc,purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,Computer Communications Equipment,Technology,Democrat,55.28,364.429993
+7/27/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,55.28,364.429993
+7/27/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,55.28,364.429993
+7/27/21,2021,AAPL,Apple Inc,purchase,500001,1000000,750001,Kim Schrier,WA08,WA,FALSE,Computer Manufacturing,Technology,Democrat,55.28,364.429993
+7/23/21,2021,COIN,Coinbase Global Inc - Class A,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,EDP Services,Technology,Democrat,224.92,368.200012
+7/23/21,2021,ORCL,Oracle Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,224.92,368.200012
+7/23/21,2021,NVDA,"NVIDIA Corporation - purchased 5,000 shares",purchase,500001,1000000,750001,Nancy Pelosi,CA12,CA,FALSE,Semiconductors,Technology,Democrat,224.92,368.200012
+7/23/21,2021,NVDA,NVIDIA Corporation - Purchased 50 Call options with strike of $100 for 9/16/2022,purchase,250001,500000,375001,Nancy Pelosi,CA12,CA,FALSE,Semiconductors,Technology,Democrat,224.92,368.200012
+7/21/21,2021,ADBE,Adobe Inc,purchase,50001,100000,75001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,612.26,361.559998
+7/21/21,2021,MSFT,Microsoft Corporation,purchase,100001,250000,175001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,612.26,361.559998
+7/21/21,2021,PTC,PTC Inc,purchase,15001,50000,32501,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,612.26,361.559998
+7/21/21,2021,TXN,Texas Instruments Inc.,purchase,100001,250000,175001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,612.26,361.559998
+7/20/21,2021,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,David Cheston Rouzer,NC07,NC,FALSE,Semiconductors,Technology,Republican,186.12,358.790009
+7/19/21,2021,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,Semiconductors,Technology,Republican,751.19,354.670013
+7/19/21,2021,AMD,Advanced Micro Devices Inc,purchase,1001,15000,8001,John Curtis,UT03,UT,FALSE,Semiconductors,Technology,Republican,751.19,354.670013
+7/16/21,2021,CTSH,Cognizant Technology Solutions Corporation - Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,68.24,357.600006
+7/16/21,2021,NVDA,NVIDIA Corporation - PUT for 09/17/21 @ 580,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Semiconductors,Technology,Republican,68.24,357.600006
+7/6/21,2021,COIN,Coinbase Global Inc - Class A,purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,EDP Services,Technology,Democrat,235.41,360.190002
+7/6/21,2021,NTAP,NetApp Inc Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,235.41,360.190002
+7/6/21,2021,NTAP,NetApp Inc Stock - IRA,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,235.41,360.190002
+7/6/21,2021,NTAP,NetApp Inc Stock - IRA,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,235.41,360.190002
+7/2/21,2021,COIN,Coinbase Global Inc - Class A,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,EDP Services,Technology,Democrat,240.72,358.640015
+7/2/21,2021,CRM,Salesforce Inc,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,240.72,358.640015
+7/2/21,2021,MRIN,Marin Software Incorporated,purchase,1001,15000,8001,Ed Case,HI01,HI,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,240.72,358.640015
+7/2/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Suzan K. DelBene,WA01,WA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,240.72,358.640015
+7/1/21,2021,ITW,Illinois Tool Works Inc,purchase,50001,100000,75001,Kevin Hern,OK01,OK,FALSE,Industrial Machinery/Components,Technology,Republican,224.61,354.570007
+7/1/21,2021,VUZI,Vuzix Corporation,purchase,50001,100000,75001,Kevin Hern,OK01,OK,FALSE,Industrial Machinery/Components,Technology,Republican,224.61,354.570007
+6/28/21,2021,COMM,CommScope Holding Company Inc,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,21.46,353.709991
+6/25/21,2021,MSFT,Microsoft Inc,purchase,250001,500000,375001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,265.02,349.459991
+6/25/21,2021,MSFT,Microsoft Inc,purchase,100001,250000,175001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,265.02,349.459991
+6/24/21,2021,CRWD,CrowdStrike Holdings Inc - Class A,purchase,100001,250000,175001,Patrick Fallon,TX04,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,253.7,349.890015
+6/24/21,2021,GOOG,Alphabet Inc - Class C Capital Stock,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,253.7,349.890015
+6/23/21,2021,GDDY,GoDaddy Inc Class A,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,85.48,347.73999
+6/22/21,2021,MSFT,Microsoft Corporation,purchase,50001,100000,75001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,265.51,347.570007
+6/22/21,2021,AMD,Advanced Micro Devices inc,purchase,1001,15000,8001,John Curtis,UT03,UT,FALSE,Semiconductors,Technology,Republican,265.51,347.570007
+6/18/21,2021,MTCH,"Match Group, Inc.",purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,153.92,342.630005
+6/18/21,2021,MTCH,Match Group Inc,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,153.92,342.630005
+6/18/21,2021,GOOGL,Alphabet Inc - Class A,purchase,1000001,5000000,3000001,Nancy Pelosi,CA12,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,153.92,342.630005
+6/18/21,2021,ZM,Zoom Video Communications Inc Class A,purchase,50001,100000,75001,Marie Newman,IL03,IL,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,153.92,342.630005
+6/17/21,2021,NTAP,NetApp Inc Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,81.47,345.339996
+6/17/21,2021,NTAP,NetApp Inc Stock - IRA,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,81.47,345.339996
+6/17/21,2021,ASML,ASML Holding N.V. - New York Registry Shares,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Industrial Machinery/Components,Technology,Democrat,81.47,345.339996
+6/16/21,2021,AMAT,Applied Materials Inc,purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,Semiconductors,Technology,Republican,136.98,341.01001
+6/16/21,2021,TSM,Taiwan Semiconductor Manufacturing Company Ltd,purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,Semiconductors,Technology,Republican,136.98,341.01001
+6/15/21,2021,CTSH,Cognizant Technology Solutions Corp,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,EDP Services,Technology,Democrat,70.35,342.26001
+6/14/21,2021,CTSH,CONGNIZANT TECHNNOLOGY SOLUTIONS,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,EDP Services,Technology,Democrat,70.79,344.51001
+6/11/21,2021,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Lloyd Doggett,TX35,TX,FALSE,Computer Manufacturing,Technology,Democrat,151.28,341.23999
+6/10/21,2021,ADBE,Adobe Inc,purchase,1001,15000,8001,William R. Keating,MA09,MA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,535.52,340.350006
+6/10/21,2021,LDOS,Leidos Holdings Inc,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,535.52,340.350006
+6/10/21,2021,MSFT,Microsoft Inc,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,535.52,340.350006
+6/9/21,2021,GOOG,Alphabet Inc - Class C Capital Stock,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,2491.4,336.839996
+6/4/21,2021,FSLR,First Solar Inc,purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,Semiconductors,Technology,Democrat,75.84,335.600006
+6/4/21,2021,FSLR,First Solar Inc,purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,Semiconductors,Technology,Democrat,75.84,335.600006
+6/3/21,2021,SQ,Square Inc Class A,purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,Computer Software: Prepackaged Software,Technology,Republican,211.43,330
+6/3/21,2021,NVDA,NVIDIA Corporation,purchase,1000001,5000000,3000001,Nancy Pelosi,CA12,CA,FALSE,Semiconductors,Technology,Democrat,211.43,330
+6/1/21,2021,FEYE,Fireeye Inc.,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,Computer peripheral equipment,Technology,Democrat,22.33,332.820007
+5/28/21,2021,NTAP,NetApp Inc Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,77.37,333.929993
+5/28/21,2021,NTAP,NetApp Inc Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,77.37,333.929993
+5/28/21,2021,NTAP,NetApp Inc Stock - IRA,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,77.37,333.929993
+5/28/21,2021,NTAP,NetApp Inc Stock - IRA,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,77.37,333.929993
+5/26/21,2021,PRGS,Progress Software Corporation,purchase,50001,100000,75001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,44.61,334.130005
+5/26/21,2021,PTC,PTC Inc.,purchase,50001,100000,75001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,44.61,334.130005
+5/26/21,2021,MSFT,Microsoft Corporation,purchase,250001,500000,375001,Patrick Fallon,TX04,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,44.61,334.130005
+5/25/21,2021,STM,STMicroelectronics NV,purchase,1001,15000,8001,Bob Gibbs,OH07,OH,FALSE,Semiconductors,Technology,Republican,37.03,332.970001
+5/25/21,2021,STM,STMicroelectronics NV,purchase,1001,15000,8001,Bob Gibbs,OH07,OH,FALSE,Semiconductors,Technology,Republican,37.03,332.970001
+5/21/21,2021,AAPL,Apple Inc,purchase,100001,250000,175001,Nancy Pelosi,CA12,CA,FALSE,Computer Manufacturing,Technology,Democrat,125.43,327.01001
+5/20/21,2021,ADBE,Adobe Inc.,purchase,250001,500000,375001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,491.67,328.829987
+5/20/21,2021,CDNS,"Cadence Design Systems, Inc.",purchase,100001,250000,175001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,491.67,328.829987
+5/20/21,2021,VUZI,Vuzix Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Industrial Machinery/Components,Technology,Republican,491.67,328.829987
+5/20/21,2021,VUZI,Vuzix Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Industrial Machinery/Components,Technology,Republican,491.67,328.829987
+5/20/21,2021,VUZI,Vuzix Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Industrial Machinery/Components,Technology,Republican,491.67,328.829987
+5/20/21,2021,VUZI,Vuzix Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Industrial Machinery/Components,Technology,Republican,491.67,328.829987
+5/19/21,2021,AMD,Advanced Micro Devices Inc,purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,Semiconductors,Technology,Republican,76.23,322.589996
+5/19/21,2021,STX,Seagate Technology Holdings PLC - Ordinary Shares,purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,Electronic Components,Technology,Republican,76.23,322.589996
+5/19/21,2021,MTCH,Match Group Inc,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,76.23,322.589996
+5/18/21,2021,VUZI,Vuzix Corporation,purchase,15001,50000,32501,Kevin Hern,OK01,OK,FALSE,Industrial Machinery/Components,Technology,Republican,16.57,322.220001
+5/17/21,2021,TXN,Texas Instruments Incorporated,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,180.83,324.410004
+5/14/21,2021,FB,Meta Platforms Inc - Class A,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,315.94,326.390015
+5/14/21,2021,SNAP,Snap Inc - Class A,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,315.94,326.390015
+5/14/21,2021,ETN,EATON CORP PLC,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Industrial Machinery/Components,Technology,Democrat,315.94,326.390015
+5/12/21,2021,AAPL,Apple Inc,purchase,15001,50000,32501,Marjorie Taylor Greene,GA14,GA,FALSE,Computer Manufacturing,Technology,Republican,122.82,316.890015
+5/12/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,122.82,316.890015
+5/12/21,2021,NTAP,Net App Inc Common Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,122.82,316.890015
+5/12/21,2021,NTAP,Net App Inc Common Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,122.82,316.890015
+5/12/21,2021,NTAP,Net App Inc Common Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,122.82,316.890015
+5/11/21,2021,AAPL,Apple Inc,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Computer Manufacturing,Technology,Republican,125.91,325.309998
+5/11/21,2021,GOOG,Alphabet Inc - Class C Capital Stock,purchase,1001,15000,8001,Ed Perlmutter,CO07,CO,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,125.91,325.309998
+5/4/21,2021,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Pete Sessions,TX17,TX,FALSE,Semiconductors,Technology,Republican,574.05,330.140015
+5/4/21,2021,MTCH,Match Group Inc,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,574.05,330.140015
+5/4/21,2021,NVDA,NVIDIA Corporation - 10 shares,purchase,1001,15000,8001,Pete Sessions,TX32,TX,FALSE,Semiconductors,Technology,Republican,574.05,330.140015
+5/3/21,2021,MSFT,Microsoft Corporation,purchase,50001,100000,75001,Ed Case,HI01,HI,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,251.86,336.190002
+5/3/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Pete Sessions,TX17,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,251.86,336.190002
+4/30/21,2021,IBM,International Business Machines,purchase,1001,15000,8001,Pete Sessions,TX17,TX,FALSE,Computer Manufacturing,Technology,Republican,141.88,337.98999
+4/30/21,2021,LRCX,LAM Research Corporation,purchase,15001,50000,32501,Kathy Manning,NC06,NC,FALSE,Industrial Machinery/Components,Technology,Democrat,141.88,337.98999
+4/30/21,2021,MSFT,Microsoft Inc,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,141.88,337.98999
+4/30/21,2021,AAPL,Apple Inc,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Computer Manufacturing,Technology,Republican,141.88,337.98999
+4/30/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,141.88,337.98999
+4/30/21,2021,MSFT,Microsoft Corporation,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,141.88,337.98999
+4/28/21,2021,NTAP,Net App Inc Common Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,76.6,339
+4/28/21,2021,NTAP,Net App Inc Common Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,76.6,339
+4/28/21,2021,NTAP,Net App Inc Common Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,76.6,339
+4/27/21,2021,AMD,Advanced Micro Devices Inc,purchase,15001,50000,32501,Deborah K. Ross,NC02,NC,FALSE,Semiconductors,Technology,Democrat,85.21,340.149994
+4/27/21,2021,GOOGL,Alphabet Inc Class A,purchase,15001,50000,32501,Deborah K. Ross,NC02,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,85.21,340.149994
+4/27/21,2021,AMAT,Applied Materials Inc,purchase,1001,15000,8001,Deborah K. Ross,NC02,NC,FALSE,Semiconductors,Technology,Democrat,85.21,340.149994
+4/27/21,2021,CRWD,Crowdstrike Holdings Inc Class A,purchase,15001,50000,32501,Deborah K. Ross,NC02,NC,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,85.21,340.149994
+4/27/21,2021,LRCX,Lam research Corporation,purchase,15001,50000,32501,Deborah K. Ross,NC02,NC,FALSE,Industrial Machinery/Components,Technology,Democrat,85.21,340.149994
+4/26/21,2021,TDC,Teradata Corporation,purchase,50001,100000,75001,Tom Malinowski,NJ07,NJ,FALSE,EDP Services,Technology,Democrat,53.07,341.630005
+4/23/21,2021,CARG,CarGurus Inc - Class A,purchase,1001,15000,8001,Lois Frankel,FL21,FL,FALSE,Interactive Media,Technology,Democrat,25.45,339.420013
+4/23/21,2021,ETN,Eaton Corp PLC,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Industrial Machinery/Components,Technology,Democrat,25.45,339.420013
+4/22/21,2021,AVGO,Broadcom Inc,purchase,1001,15000,8001,Robert J. Wittman,VA01,VA,FALSE,Semiconductors,Technology,Republican,455.11,335.200012
+4/20/21,2021,NTAP,Net App Inc Common Stock,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,75.19,336.410004
+4/20/21,2021,NTAP,Net App Inc Common Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,75.19,336.410004
+4/20/21,2021,NTAP,Net App Inc Common Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,75.19,336.410004
+4/20/21,2021,NTAP,Net App Inc Common Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,75.19,336.410004
+4/20/21,2021,NTAP,Net App Inc Common Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,75.19,336.410004
+4/19/21,2021,EMKR,EMCORE Corporation,purchase,1001,15000,8001,Debbie Wasserman Schultz,FL23,FL,FALSE,Semiconductors,Technology,Democrat,6.28,338.880005
+4/19/21,2021,EMKR,EMCORE Corporation,purchase,1001,15000,8001,Debbie Wasserman Schultz,FL23,FL,FALSE,Semiconductors,Technology,Democrat,6.28,338.880005
+4/19/21,2021,EMKR,EMCORE Corporation,purchase,1001,15000,8001,Debbie Wasserman Schultz,FL23,FL,FALSE,Semiconductors,Technology,Democrat,6.28,338.880005
+4/19/21,2021,CRM,Salesforce.com Inc,purchase,1001,15000,8001,Pete Sessions,TX17,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,6.28,338.880005
+4/16/21,2021,COIN,Coinbase Global Inc - Class A,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,EDP Services,Technology,Democrat,341.63,342.01001
+4/16/21,2021,QCOM,Qualcomm Incorporated,purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Republican,341.63,342.01001
+4/16/21,2021,CRM,Salesforce.com Inc,purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,Computer Software: Prepackaged Software,Technology,Republican,341.63,342.01001
+4/16/21,2021,GOOG,Alphabet Inc - Class C Capital Stock,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,341.63,342.01001
+4/16/21,2021,FB,Facebook Inc Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,341.63,342.01001
+4/15/21,2021,GOOG,Alphabet Inc - Class C Capital Stock,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,2296.52,341.609985
+4/14/21,2021,COIN,Coinbase Global Inc - Class A,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,EDP Services,Technology,Democrat,328.28,336.51001
+4/14/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,William R. Keating,MA09,MA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,328.28,336.51001
+4/14/21,2021,VRSN,VeriSign Inc,purchase,1001,15000,8001,William R. Keating,MA09,MA,FALSE,EDP Services,Technology,Democrat,328.28,336.51001
+4/9/21,2021,GOOG,Alphabet Inc - Class C Capital Stock,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,2285.88,337.109985
+3/31/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Suzan K. DelBene,WA01,WA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,235.77,319.130005
+3/30/21,2021,ZNGA,Zyanga Inc CMN Class A,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,EDP Services,Technology,Democrat,10.06,314.320007
+3/30/21,2021,ADBE,Adobe Inc,purchase,50001,100000,75001,Michael T. McCaul,TX10,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,10.06,314.320007
+3/30/21,2021,ADBE,Adobe Inc,purchase,50001,100000,75001,Michael T. McCaul,TX10,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,10.06,314.320007
+3/26/21,2021,ZNGA,Zyanga Inc CMN Class A,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,EDP Services,Technology,Democrat,10.06,316
+3/26/21,2021,AAPL,Apple Inc,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Computer Manufacturing,Technology,Republican,10.06,316
+3/26/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,10.06,316
+3/25/21,2021,GDRX,GoodRx Holdings Inc Class A,purchase,100001,250000,175001,Anthony E. Gonzalez,OH16,OH,FALSE,Retail: Computer Software & Peripheral Equipment,Technology,Republican,36.52,311.329987
+3/25/21,2021,ZNGA,Zyanga Inc CMN Class A,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,EDP Services,Technology,Democrat,36.52,311.329987
+3/25/21,2021,SABR,Sabre Corporation,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,36.52,311.329987
+3/25/21,2021,ADBE,Adobe Inc,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,36.52,311.329987
+3/25/21,2021,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Semiconductors,Technology,Democrat,36.52,311.329987
+3/25/21,2021,SNAP,Snap Inc - Class A,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,36.52,311.329987
+3/24/21,2021,ADBE,Adobe Inc,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,451.51,311.869995
+3/24/21,2021,SNAP,Snap Inc,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,451.51,311.869995
+3/24/21,2021,NVDA,Nvidia Corporation,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,Semiconductors,Technology,Democrat,451.51,311.869995
+3/24/21,2021,ADBE,Adobe Inc,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,451.51,311.869995
+3/24/21,2021,SNAP,Snap Inc,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,451.51,311.869995
+3/24/21,2021,NVDA,Nvidia Corp,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,Semiconductors,Technology,Democrat,451.51,311.869995
+3/24/21,2021,SQ,"Square inc Class A - Call Opts at $220, expires 4/9",purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,451.51,311.869995
+3/23/21,2021,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,Semiconductors,Technology,Democrat,522.83,317.220001
+3/23/21,2021,FB,Facebook Class A,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,522.83,317.220001
+3/23/21,2021,NVDA,NVIDIA Corp,purchase,15001,50000,32501,Michael T. McCaul,TX10,TX,FALSE,Semiconductors,Technology,Republican,522.83,317.220001
+3/23/21,2021,NVDA,NVIDIA Corp,purchase,15001,50000,32501,Michael T. McCaul,TX10,TX,FALSE,Semiconductors,Technology,Republican,522.83,317.220001
+3/22/21,2021,ENPH,Enphase Energy Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Electrical Products,Technology,Democrat,161.11,318.609985
+3/22/21,2021,SSNC,SS&C Technologies Holdings Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,161.11,318.609985
+3/22/21,2021,EA,Electronic Arts Inc,purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,161.11,318.609985
+3/19/21,2021,MSFT,Microsoft Corporation - Exercised 150 call options (15K shares) expiring 3/19/2021 @ $130,purchase,1000001,5000000,3000001,Nancy Pelosi,CA12,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,230.35,313.140015
+3/19/21,2021,MSFT,Microsoft Corporation - Exercised 100 call options (10K shares) expiring 3/19/2021 @ $140,purchase,1000001,5000000,3000001,Nancy Pelosi,CA12,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,230.35,313.140015
+3/18/21,2021,KAI,Kadant Inc,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Industrial Machinery/Components,Technology,Democrat,178,312.040009
+3/17/21,2021,ADBE,Adobe Inc,purchase,1001,,1001,Alan S. Lowenthal,CA47,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,451.01,321.899994
+3/17/21,2021,ADSK,Autodesk Inc,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,451.01,321.899994
+3/17/21,2021,GOOGL,Alphabet Inc - Class A,purchase,1001,15000,8001,William R. Keating,MA09,MA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,451.01,321.899994
+3/17/21,2021,CACI,CACI International Inc Class A,purchase,1001,15000,8001,William R. Keating,MA09,MA,FALSE,EDP Services,Technology,Democrat,451.01,321.899994
+3/17/21,2021,EA,Electronic Arts Inc,purchase,1001,15000,8001,William R. Keating,MA09,MA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,451.01,321.899994
+3/17/21,2021,INTU,Intuit Inc,purchase,1001,15000,8001,William R. Keating,MA09,MA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,451.01,321.899994
+3/17/21,2021,LRCX,Lam Research Corporation,purchase,1001,15000,8001,William R. Keating,MA09,MA,FALSE,Industrial Machinery/Components,Technology,Democrat,451.01,321.899994
+3/17/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,William R. Keating,MA09,MA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,451.01,321.899994
+3/17/21,2021,NXPI,NXP Semiconductors NV,purchase,1001,15000,8001,William R. Keating,MA09,MA,FALSE,Semiconductors,Technology,Democrat,451.01,321.899994
+3/17/21,2021,URI,United Rentals Inc,purchase,1001,15000,8001,William R. Keating,MA09,MA,FALSE,Diversified Commercial Services,Technology,Democrat,451.01,321.899994
+3/17/21,2021,VRSN,VeriSign Inc,purchase,1001,15000,8001,William R. Keating,MA09,MA,FALSE,EDP Services,Technology,Democrat,451.01,321.899994
+3/16/21,2021,GOOG,Alphabet Inc Class C Capital Stock,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,2092.52,320.579987
+3/16/21,2021,NVDA,NVIDIA Corp,purchase,50001,100000,75001,Michael T. McCaul,TX10,TX,FALSE,Semiconductors,Technology,Republican,2092.52,320.579987
+3/16/21,2021,NVDA,NVIDIA Corp,purchase,50001,100000,75001,Michael T. McCaul,TX10,TX,FALSE,Semiconductors,Technology,Republican,2092.52,320.579987
+3/12/21,2021,EVBG,Everbridge Inc,purchase,15001,50000,32501,Tom Malinowski,NJ07,NJ,FALSE,Retail: Computer Software & Peripheral Equipment,Technology,Democrat,137.36,315.459991
+3/11/21,2021,ADBE,Adobe Inc,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,451.06,318.040009
+3/11/21,2021,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,Semiconductors,Technology,Democrat,451.06,318.040009
+3/11/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,451.06,318.040009
+3/11/21,2021,COMM,CommScope Holding Company Inc,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,451.06,318.040009
+3/11/21,2021,KAI,Kadant Inc,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Industrial Machinery/Components,Technology,Democrat,451.06,318.040009
+3/11/21,2021,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Lloyd Doggett,TX35,TX,FALSE,Computer Manufacturing,Technology,Democrat,451.06,318.040009
+3/10/21,2021,ADSK,Autodesk Inc,purchase,15001,50000,32501,Alan S. Lowenthal,CA47,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,263.64,310.880005
+3/10/21,2021,ADSK,Autodesk Inc,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,263.64,310.880005
+3/10/21,2021,SABR,Sabre Corporation,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,263.64,310.880005
+3/10/21,2021,TSM,Taiwan Semiconductor Manufacturing Company Ltd,purchase,1001,15000,8001,Pete Sessions,TX17,TX,FALSE,Semiconductors,Technology,Republican,263.64,310.880005
+3/10/21,2021,NVDA,NVIDIA,purchase,15001,50000,32501,Michael T. McCaul,TX10,TX,FALSE,Semiconductors,Technology,Republican,263.64,310.880005
+3/10/21,2021,NVDA,NVIDIA,purchase,15001,50000,32501,Michael T. McCaul,TX10,TX,FALSE,Semiconductors,Technology,Republican,263.64,310.880005
+3/9/21,2021,MTCH,Match Group Inc,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,152.11,311.769989
+3/9/21,2021,MTCH,Match Group Inc,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,152.11,311.769989
+3/9/21,2021,NVDA,NVIDIA Corp,purchase,15001,50000,32501,Michael T. McCaul,TX10,TX,FALSE,Semiconductors,Technology,Republican,152.11,311.769989
+3/9/21,2021,NVDA,NVIDIA Corp,purchase,15001,50000,32501,Michael T. McCaul,TX10,TX,FALSE,Semiconductors,Technology,Republican,152.11,311.769989
+3/9/21,2021,MTCH,Match Group Inc,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,152.11,311.769989
+3/8/21,2021,FB,Facebook Class A,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,255.31,299.940002
+3/8/21,2021,SABR,Sabre Corporation,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,255.31,299.940002
+3/5/21,2021,AVGO,Broadcom Inc,purchase,1001,15000,8001,John A. Yarmuth,KY03,KY,FALSE,Semiconductors,Technology,Republican,450.14,308.679993
+3/5/21,2021,CSCO,Cisco Systems Inc,purchase,1001,15000,8001,John A. Yarmuth,KY03,KY,FALSE,Computer Communications Equipment,Technology,Republican,450.14,308.679993
+3/4/21,2021,CSCO,Cisco Systems Inc,purchase,1001,15000,8001,Carol Devine Miller,WV03,WV,FALSE,Computer Communications Equipment,Technology,Republican,44.56,304.100006
+3/4/21,2021,GOOG,Alphabet Inc Class C Capital Stock,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,44.56,304.100006
+3/4/21,2021,AAPL,"Apple Inc - March 17, 2023 $105 CALL Option",purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Computer Manufacturing,Technology,Republican,44.56,304.100006
+3/4/21,2021,AAPL,Apple Inc,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Computer Manufacturing,Technology,Republican,44.56,304.100006
+3/4/21,2021,AAPL,Apple Inc,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Computer Manufacturing,Technology,Republican,44.56,304.100006
+3/4/21,2021,FB,Facebook Inc - Class A,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,44.56,304.100006
+3/4/21,2021,FB,Facebook Inc - Class A,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,44.56,304.100006
+3/4/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,44.56,304.100006
+3/4/21,2021,STX,Seagate Technologies Inc,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Electronic Components,Technology,Democrat,44.56,304.100006
+3/3/21,2021,CDNS,Cadence Design Systems Inc,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,133.74,309.160004
+3/2/21,2021,NSIT,Insight Enterprises Inc,purchase,1001,15000,8001,Michael T. McCaul,TX10,TX,FALSE,EDP Services,Technology,Republican,85.55,318.399994
+3/2/21,2021,NSIT,Insight Enterprises Inc,purchase,1001,15000,8001,Michael T. McCaul,TX10,TX,FALSE,EDP Services,Technology,Republican,85.55,318.399994
+2/26/21,2021,PLXS,PLEXUS CORP,purchase,1001,15000,8001,Michael T. McCaul,TX10,TX,FALSE,Electrical Products,Technology,Republican,83.98,314.140015
+2/26/21,2021,RHI,Robert Half International,purchase,15001,50000,32501,Michael T. McCaul,TX10,TX,FALSE,Professional Services,Technology,Republican,83.98,314.140015
+2/26/21,2021,PLXS,PLEXUS Corp,purchase,15001,50000,32501,Michael T. McCaul,TX10,TX,FALSE,Electrical Products,Technology,Republican,83.98,314.140015
+2/26/21,2021,PLXS,PLEXUS Corp,purchase,1001,15000,8001,Michael T. McCaul,TX10,TX,FALSE,Electrical Products,Technology,Republican,83.98,314.140015
+2/26/21,2021,FIVN,"Five9, Inc.",purchase,1001,15000,8001,Tom Malinowski,NJ07,NJ,FALSE,EDP Services,Technology,Democrat,83.98,314.140015
+2/25/21,2021,ESTC,Elastic NV Ordinary Shares,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,131.56,312.829987
+2/25/21,2021,MDB,MongoDB Inc - Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Retail: Computer Software & Peripheral Equipment,Technology,Democrat,131.56,312.829987
+2/25/21,2021,GOOG,Alphabet Inc Class C Capital Stock,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,131.56,312.829987
+2/25/21,2021,AAPL,Apple Inc,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Computer Manufacturing,Technology,Republican,131.56,312.829987
+2/25/21,2021,FB,Facebook Inc - Class A,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,131.56,312.829987
+2/25/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,131.56,312.829987
+2/25/21,2021,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,131.56,312.829987
+2/25/21,2021,NVDA,"NVIDIA Corporation - April 16, 2021 $400 PUT Option",purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Semiconductors,Technology,Republican,131.56,312.829987
+2/25/21,2021,MTCH,Match Group Inc (Trade was for 2020 Trust for Khanna Children),purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,131.56,312.829987
+2/25/21,2021,MTCH,Match Group Inx,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,131.56,312.829987
+2/25/21,2021,TYL,Tyler Technologies Inc (Trade was for 2020 Trust for Khanna Children),purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,131.56,312.829987
+2/25/21,2021,MTCH,Match Group Inc (Trade was for 2020 Trust for Khanna Children),purchase,15001,50000,32501,Ro Khanna,CA17,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,131.56,312.829987
+2/24/21,2021,HUBS,HubSpot Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,518.73,324.130005
+2/24/21,2021,AAPL,Apple Inc,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Computer Manufacturing,Technology,Republican,518.73,324.130005
+2/24/21,2021,FB,Facebook Inc - Class A,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,518.73,324.130005
+2/24/21,2021,FB,Facebook Inc Class A (Ritu 1985 Trust),purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,518.73,324.130005
+2/24/21,2021,MTCH,Match Group Inc,purchase,15001,50000,32501,Kathy Manning,NC06,NC,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,518.73,324.130005
+2/23/21,2021,CREE,Cree Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,117.92,321.480011
+2/23/21,2021,BRKS,Brooks Automation,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Industrial Machinery/Components,Technology,Democrat,117.92,321.480011
+2/23/21,2021,CDNS,Cadence Design Systems,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,117.92,321.480011
+2/23/21,2021,FB,Facebook Inc Class A (Ritu 1985 Trust),purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,117.92,321.480011
+2/22/21,2021,SQ,Square Inc Class A,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,268.08,322.440002
+2/22/21,2021,FB,Facebook Class A,purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,268.08,322.440002
+2/22/21,2021,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,Computer Manufacturing,Technology,Democrat,268.08,322.440002
+2/22/21,2021,CERN,Cerner Corporation,purchase,1001,15000,8001,David B. McKinley,WV01,WV,FALSE,EDP Services,Technology,Republican,268.08,322.440002
+2/19/21,2021,RXT,Rackspace Technology,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,20.93,331.019989
+2/18/21,2021,FB,Facebook Inc,purchase,100001,250000,175001,Michael T. McCaul,TX10,TX,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,269.39,332.470001
+2/18/21,2021,FB,Facebook Inc,purchase,250001,500000,375001,Michael T. McCaul,TX10,TX,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,269.39,332.470001
+2/17/21,2021,GOOG,Alphabet Inc Class C Capital Stock,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,2128.31,333.929993
+2/17/21,2021,SHOP,Shopify Inc Class A subordinate voting shares,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,2128.31,333.929993
+2/17/21,2021,BL,"BlackLine, Inc.",purchase,15001,50000,32501,Tom Malinowski,NJ07,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,2128.31,333.929993
+2/16/21,2021,NVDA,NVIDA Corporation,purchase,1001,15000,8001,Peter Meijer,MI03,MI,TRUE,Semiconductors,Technology,Republican,613.21,335.540009
+2/16/21,2021,ORCL,Oracle Corporation,purchase,50001,100000,75001,Peter Meijer,MI03,MI,TRUE,Computer Software: Prepackaged Software,Technology,Republican,613.21,335.540009
+2/16/21,2021,NTAP,Net App Inc,purchase,15001,50000,32501,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,613.21,335.540009
+2/16/21,2021,NTAP,Net App Inc,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,613.21,335.540009
+2/16/21,2021,NTAP,Net App Inc,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,613.21,335.540009
+2/16/21,2021,ETN,Eaton Corp PLC Ordinary Shares,purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,Industrial Machinery/Components,Technology,Democrat,613.21,335.540009
+2/12/21,2021,MSFT,Microsoft Corporation,purchase,15001,50000,32501,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,244.99,336.450012
+2/12/21,2021,MSFT,Microsoft Corporation,purchase,1000001,5000000,3000001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,244.99,336.450012
+2/12/21,2021,MSFT,Microsoft Corporation,purchase,1000001,5000000,3000001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,244.99,336.450012
+2/12/21,2021,MSFT,Microsoft Corporation,purchase,250001,500000,375001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,244.99,336.450012
+2/12/21,2021,AlGM,Allegro MicroSystems,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Semiconductors,Technology,Democrat,244.99,336.450012
+2/12/21,2021,CDNS,Cadence Design Systems,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,244.99,336.450012
+2/12/21,2021,GDDY,GoDaddy Inc Class A,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,244.99,336.450012
+2/11/21,2021,CTSH,Cognzant Technology Solutions (2020 Irrev Trust FBO Grandchildren),purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,EDP Services,Technology,Democrat,76.97,334.579987
+2/11/21,2021,TXN,Texas Instruments CMN (2020 Irrev Trust FBO Grandchildren),purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,Semiconductors,Technology,Democrat,76.97,334.579987
+2/11/21,2021,FB,Facebook Inc (2020 Irrev Trust FBO Grandchildren),purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,76.97,334.579987
+2/11/21,2021,CTSH,Cognizant Technology Solutions Corp (Ritu 1985 Trust),purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,EDP Services,Technology,Democrat,76.97,334.579987
+2/11/21,2021,TXN,Texas Instruments (Ritu 1985 Trust),purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,Semiconductors,Technology,Democrat,76.97,334.579987
+2/11/21,2021,FB,Facebook Inc (Ritu 1985 Trust),purchase,1001,15000,8001,Ro Khanna,CA17,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,76.97,334.579987
+2/11/21,2021,ZM,Zoom Video Communications Inc Class A,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,76.97,334.579987
+2/11/21,2021,ZM,Zoom Video Communications Inc Class A,purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,76.97,334.579987
+2/10/21,2021,MSFT,Microsoft Corp,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,242.82,332.75
+2/9/21,2021,SQ,Square Inc,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,258.12,333.51001
+2/9/21,2021,BRKS,Brooks Automation,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Industrial Machinery/Components,Technology,Democrat,258.12,333.51001
+2/9/21,2021,AMD,AMD Stock,purchase,15001,50000,32501,David Kustoff,TN08,TN,FALSE,Semiconductors,Technology,Republican,258.12,333.51001
+2/8/21,2021,AAPL,Apple Inc,purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,Computer Manufacturing,Technology,Democrat,136.91,333.579987
+2/8/21,2021,ZM,Zoom Video Communications Inc Class A,purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,136.91,333.579987
+2/8/21,2021,TXN,Texas Instruments Inc,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,136.91,333.579987
+2/8/21,2021,IBM,International Business Machines Corp,purchase,1001,15000,8001,Bob Gibbs,OH07,OH,FALSE,Computer Manufacturing,Technology,Republican,136.91,333.579987
+2/5/21,2021,ALGM,Allegro MicroSystems,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Semiconductors,Technology,Democrat,30.19,331.359985
+2/5/21,2021,AAPL,Apple Inc,purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,Computer Manufacturing,Technology,Democrat,30.19,331.359985
+2/5/21,2021,IBM,International Business Machines Corp,purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,Computer Manufacturing,Technology,Democrat,30.19,331.359985
+2/5/21,2021,AVGO,Broadcom Corp,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Semiconductors,Technology,Democrat,30.19,331.359985
+2/5/21,2021,ETN,Eaton Corp Plc,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Industrial Machinery/Components,Technology,Democrat,30.19,331.359985
+2/5/21,2021,MSFT,Microsoft Corp,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,30.19,331.359985
+2/5/21,2021,TXN,Texas Instruments,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Semiconductors,Technology,Democrat,30.19,331.359985
+2/4/21,2021,GOOG,Alphabet Inc Class C Capital Stock,purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,2062.37,330.23999
+2/4/21,2021,KAI,Kadant Inc,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Industrial Machinery/Components,Technology,Democrat,2062.37,330.23999
+2/4/21,2021,EA,Electronic Arts Inc,purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,2062.37,330.23999
+2/2/21,2021,PLXS,PLEXUS Corp,purchase,1001,15000,8001,Michael T. McCaul,TX10,TX,FALSE,Electrical Products,Technology,Republican,80.89,327.679993
+2/1/21,2021,NTAP,"NetApp, Inc.",purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,66.08,322.420013
+2/1/21,2021,NTAP,"NetApp, Inc.",purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,66.08,322.420013
+2/1/21,2021,NTAP,"NetApp, Inc.",purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,66.08,322.420013
+2/1/21,2021,NTAP,"NetApp, Inc.",purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,66.08,322.420013
+2/1/21,2021,NTAP,"NetApp, Inc.",purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,66.08,322.420013
+1/29/21,2021,AAPL,Apple Inc,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,Computer Manufacturing,Technology,Democrat,131.96,314.559998
+1/28/21,2021,CRWD,CrowdStrike Holdings Ltd,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,212.49,321.320007
+1/27/21,2021,GOOGL,Alphabet Inc. - Class A (Spouse retirement portfolio),purchase,1001,15000,8001,Earl Blumenauer,OR03,OR,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,1818.94,319.429993
+1/26/21,2021,CHKP,Check Point Software Technologies Ltd Ord Shares,purchase,1001,15000,8001,Peter Meijer,MI03,MI,FALSE,Computer Software: Prepackaged Software,Technology,Republican,130.8,328.589996
+1/26/21,2021,SAP,SAP SE ADS,purchase,1001,15000,8001,Peter Meijer,MI03,MI,FALSE,Computer Software: Prepackaged Software,Technology,Republican,130.8,328.589996
+1/22/21,2021,PAGS,PagSeguro Digital Ltd. Class A Common Shares,purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,EDP Services,Technology,Republican,56.09,325.420013
+1/22/21,2021,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,Semiconductors,Technology,Republican,56.09,325.420013
+1/21/21,2021,AMD,"Advanced Micro Devices, Inc.",purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,Semiconductors,Technology,Republican,91.53,326.359985
+1/21/21,2021,PAGS,PagSeguro Digital Ltd. Class A Common Shares,purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,EDP Services,Technology,Republican,91.53,326.359985
+1/21/21,2021,NOW,"ServiceNow, Inc.",purchase,1001,15000,8001,Marjorie Taylor Greene,GA14,GA,FALSE,Computer Software: Prepackaged Software,Technology,Republican,91.53,326.359985
+1/21/21,2021,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,Computer Manufacturing,Technology,Democrat,91.53,326.359985
+1/20/21,2021,ASML,ASML Holding,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Industrial Machinery/Components,Technology,Democrat,549.38,323.769989
+1/20/21,2021,FB,"Facebook Inc - Class A - March 19,2021 $215 PUT Option",purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,549.38,323.769989
+1/20/21,2021,NVDA,"NVIDIA Corporation - April 19, 2021 $425 PUT Option",purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Semiconductors,Technology,Republican,549.38,323.769989
+1/20/21,2021,NVDA,"NVIDIA Corporation - April 19, 2021 $400 PUT Option",purchase,1001,15000,8001,Blake Moore,UT01,UT,FALSE,Semiconductors,Technology,Republican,549.38,323.769989
+1/15/21,2021,FB,Facebook Inc,purchase,100001,250000,175001,Michael T. McCaul,TX10,TX,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,251.36,311.859985
+1/15/21,2021,FB,Facebook Inc,purchase,100001,250000,175001,Michael T. McCaul,TX10,TX,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,251.36,311.859985
+1/15/21,2021,INTU,Intuit Inc.,purchase,1001,15000,8001,Kathy Manning,NC06,NC,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,251.36,311.859985
+1/15/21,2021,AAPL,Apple Inc.,purchase,100001,250000,175001,James R. Langevin,RI02,RI,FALSE,Computer Manufacturing,Technology,Democrat,251.36,311.859985
+1/14/21,2021,DOCU,"DocuSign, Inc.",purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,250.25,314.350006
+1/14/21,2021,MSFT,Microsoft Corporation,purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,250.25,314.350006
+1/13/21,2021,FLT,FleetCor Technologies,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,275.73,316.040009
+1/11/21,2021,CRM,Salesforce.com Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,218.25,314.420013
+1/11/21,2021,AAPL,Apple Inc.,purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,Computer Manufacturing,Technology,Democrat,218.25,314.420013
+1/11/21,2021,DOCU,"DocuSign, Inc.",purchase,15001,50000,32501,Marie Newman,IL03,IL,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,218.25,314.420013
+1/11/21,2021,ASML,ASML Holding N.V. - New York Registry Shares,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Industrial Machinery/Components,Technology,Democrat,218.25,314.420013
+1/8/21,2021,SNAP,Snap Inc Class A,purchase,1001,15000,8001,Marie Newman,IL03,IL,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,52.73,319.029999
+1/5/21,2021,BRKS,"Brooks Automation, Inc.",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Industrial Machinery/Components,Technology,Democrat,67.45,311.859985
+1/4/21,2021,ORCL,Oracle Corporation,purchase,15001,50000,32501,Deborah K. Ross,NC02,NC,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,63.75,309.309998
+12/31/20,2020,FB,"Facebook, Inc. - Class A (U.S. Trust Holdings)",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,273.16,313.73999
+12/31/20,2020,NVDA,NVIDIA Corp. (U.S. Trust Holdings),purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Semiconductors,Technology,Democrat,273.16,313.73999
+12/31/20,2020,ADBE,Adobe Inc,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,273.16,313.73999
+12/30/20,2020,NTAP,"NetApp, Inc.",purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,65.33,312.970001
+12/28/20,2020,NTAP,"NetApp, Inc.",purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,65.9,312.679993
+12/28/20,2020,NTAP,"NetApp, Inc.",purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,65.9,312.679993
+12/28/20,2020,NTAP,"NetApp, Inc.",purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,65.9,312.679993
+12/23/20,2020,FB,"Facebook, Inc. - Class A (U.S. Trust Holdings)",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,268.11,308.200012
+12/23/20,2020,SPLK,Splunk Inc. (U.S. Trust Holdings),purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,268.11,308.200012
+12/22/20,2020,AAPL,Apple Inc. Purchased 100 call options with a strike price of $100 and an expiration date of 1/21/22.,purchase,250001,500000,375001,Nancy Pelosi,CA12,CA,FALSE,Computer Manufacturing,Technology,Democrat,131.88,309.76001
+12/21/20,2020,NTAP,"NetApp, Inc.",purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,64.54,308.920013
+12/21/20,2020,NTAP,"NetApp, Inc.",purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,64.54,308.920013
+12/18/20,2020,CSCO,Cisco Systems,purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Computer Communications Equipment,Technology,Democrat,45.44,310.059998
+12/18/20,2020,INTC,Intel Corp,purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Semiconductors,Technology,Democrat,45.44,310.059998
+12/18/20,2020,VSAT,"ViaSat, Inc.",purchase,100001,250000,175001,Greg Gianforte,MT00,MT,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Republican,45.44,310.059998
+12/17/20,2020,NTAP,"NetApp, Inc.",purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,64.12,311
+12/17/20,2020,NTAP,"NetApp, Inc.",purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,64.12,311
+12/17/20,2020,NTAP,"NetApp, Inc.",purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,64.12,311
+12/16/20,2020,CTSH,Cognizant Tech Solutions,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,79.32,308.980011
+12/16/20,2020,RXT,"Rackspace Technology, Inc.",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,79.32,308.980011
+12/14/20,2020,FB,"Facebook, Inc. - Class A (U.S. Trust Holdings)",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,274.19,304.040009
+12/11/20,2020,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Lloyd Doggett,TX35,TX,FALSE,Computer Manufacturing,Technology,Democrat,124.27,301.850006
+12/10/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,210.52,302.519989
+12/7/20,2020,BRKS,"Brooks Automation, Inc. (U.S. Trust Holdings)",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Industrial Machinery/Components,Technology,Democrat,75.14,307.25
+12/3/20,2020,NLOK,"NortonLifeLock, Inc.",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,19.1,304.279999
+12/2/20,2020,BRKS,Brooks Automation Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Industrial Machinery/Components,Technology,Democrat,71.67,303.850006
+12/1/20,2020,LOGI,Logitech International S.A. - Registered Shares,purchase,15001,50000,32501,Greg Gianforte,MT00,MT,FALSE,Computer peripheral equipment,Technology,Republican,88.22,303.459991
+12/1/20,2020,WIX,Wix.com Ltd. - Ordinary Shares,purchase,1001,15000,8001,Greg Gianforte,MT00,MT,FALSE,EDP Services,Technology,Republican,88.22,303.459991
+11/30/20,2020,NTAP,Net App Inc / Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,53.31,299.619995
+11/30/20,2020,NTAP,Net App Inc / Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,53.31,299.619995
+11/30/20,2020,NTAP,Net App Inc / Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,53.31,299.619995
+11/27/20,2020,FTNT,FORTINET INC,purchase,15001,50000,32501,Michael T. McCaul,TX10,TX,FALSE,Computer peripheral equipment,Technology,Republican,123.79,299.01001
+11/27/20,2020,FTNT,FORTINET INC,purchase,15001,50000,32501,Michael T. McCaul,TX10,TX,FALSE,Computer peripheral equipment,Technology,Republican,123.79,299.01001
+11/25/20,2020,FTNT,FORTINET INC,purchase,15001,50000,32501,Michael T. McCaul,TX10,TX,FALSE,Computer peripheral equipment,Technology,Republican,119.85,296.279999
+11/25/20,2020,FTNT,FORTINET INC,purchase,50001,100000,75001,Michael T. McCaul,TX10,TX,FALSE,Computer peripheral equipment,Technology,Republican,119.85,296.279999
+11/24/20,2020,FTNT,FORTINET INC,purchase,15001,50000,32501,Michael T. McCaul,TX10,TX,FALSE,Computer peripheral equipment,Technology,Republican,118.59,294.470001
+11/24/20,2020,FTNT,FORTINET INC,purchase,15001,50000,32501,Michael T. McCaul,TX10,TX,FALSE,Computer peripheral equipment,Technology,Republican,118.59,294.470001
+11/24/20,2020,CRNC,Cerence,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,EDP Services,Technology,Democrat,118.59,294.470001
+11/24/20,2020,RPD,Rapid7,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,118.59,294.470001
+11/24/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,118.59,294.470001
+11/24/20,2020,AAPL,Apple Inc.,purchase,15001,50000,32501,Mike Garcia,CA25,CA,FALSE,Computer Manufacturing,Technology,Republican,118.59,294.470001
+11/19/20,2020,ADBE,Adobe,purchase,15001,50000,32501,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,466.41,292.380005
+11/19/20,2020,AAPL,Apple,purchase,15001,50000,32501,Gilbert Cisneros,CA39,CA,FALSE,Computer Manufacturing,Technology,Democrat,466.41,292.380005
+11/19/20,2020,ERIC,Ericsson,purchase,15001,50000,32501,Gilbert Cisneros,CA39,CA,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,466.41,292.380005
+11/19/20,2020,INTU,Intuit,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,466.41,292.380005
+11/19/20,2020,ADBE,Adobe,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,466.41,292.380005
+11/19/20,2020,GOOG,Alphabet,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,466.41,292.380005
+11/19/20,2020,AMAT,Applied Materials,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,Semiconductors,Technology,Republican,466.41,292.380005
+11/19/20,2020,AVGO,Broadcom,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,Semiconductors,Technology,Republican,466.41,292.380005
+11/19/20,2020,FB,Facebook,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,466.41,292.380005
+11/19/20,2020,IR,Ingersoll Rand,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,Industrial Machinery/Components,Technology,Republican,466.41,292.380005
+11/19/20,2020,LRCX,Lam Research,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,Industrial Machinery/Components,Technology,Republican,466.41,292.380005
+11/19/20,2020,MSFT,Microsoft,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,466.41,292.380005
+11/19/20,2020,ORCL,Oracle,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,466.41,292.380005
+11/19/20,2020,ZBRA,Zebra Tech,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,Computer peripheral equipment,Technology,Republican,466.41,292.380005
+11/19/20,2020,ADBE,Adobe,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,466.41,292.380005
+11/19/20,2020,GOOG,Alphabet,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,466.41,292.380005
+11/19/20,2020,AMAT,Applied Materials,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,Semiconductors,Technology,Republican,466.41,292.380005
+11/19/20,2020,AVGO,Broadcom,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,Semiconductors,Technology,Republican,466.41,292.380005
+11/19/20,2020,FB,Facebook,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,466.41,292.380005
+11/19/20,2020,IR,Ingensoll Rand,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,Industrial Machinery/Components,Technology,Republican,466.41,292.380005
+11/19/20,2020,MSFT,Microsoft,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,466.41,292.380005
+11/19/20,2020,ORCL,Oracle,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,Computer Software: Prepackaged Software,Technology,Republican,466.41,292.380005
+11/19/20,2020,ZBRA,Zebra Tech,purchase,15001,50000,32501,Kenny Marchant,TX24,TX,FALSE,Computer peripheral equipment,Technology,Republican,466.41,292.380005
+11/19/20,2020,CRNC,Cerence Inc.,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,466.41,292.380005
+11/18/20,2020,MU,MICRON TECHNOLOGY INC,purchase,1001,15000,8001,Michael T. McCaul,TX10,TX,FALSE,Semiconductors,Technology,Republican,60.74,290.109985
+11/18/20,2020,PLXS,PLEXUS CORP,purchase,1001,15000,8001,Michael T. McCaul,TX10,TX,FALSE,Electrical Products,Technology,Republican,60.74,290.109985
+11/18/20,2020,PLXS,PLEXUS CORPORATION,purchase,1001,15000,8001,Michael T. McCaul,TX10,TX,FALSE,Electrical Products,Technology,Republican,60.74,290.109985
+11/18/20,2020,GDDY,GoDaddy,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,EDP Services,Technology,Democrat,60.74,290.109985
+11/18/20,2020,GDDY,Godaddy Inc. Class A,purchase,100001,250000,175001,Greg Gianforte,MT00,MT,FALSE,EDP Services,Technology,Republican,60.74,290.109985
+11/17/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Manufacturing,Technology,Democrat,119.39,292.269989
+11/17/20,2020,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Semiconductors,Technology,Democrat,119.39,292.269989
+11/17/20,2020,SQ,"Square, Inc. Class A",purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,119.39,292.269989
+11/17/20,2020,IR,Ingersoll Rand,purchase,1001,15000,8001,Kenny Marchant,TX24,TX,FALSE,Industrial Machinery/Components,Technology,Republican,119.39,292.269989
+11/17/20,2020,MSFT,Microsoft Corporation,purchase,100001,250000,175001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,119.39,292.269989
+11/17/20,2020,MSFT,Microsoft Corporation,purchase,100001,250000,175001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,119.39,292.269989
+11/17/20,2020,MSFT,Microsoft Corporation,purchase,250001,500000,375001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,119.39,292.269989
+11/17/20,2020,MSFT,Microsoft Corporation,purchase,500001,1000000,750001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,119.39,292.269989
+11/16/20,2020,TXN,Texas Instruments Incorporated,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,158.31,293.200012
+11/16/20,2020,MU,"Micron Technology, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Semiconductors,Technology,Democrat,158.31,293.200012
+11/16/20,2020,CTSH,Cognizant Technology Solutions Corporation - Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,158.31,293.200012
+11/16/20,2020,QCOM,QUALCOMM Incorporated,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,158.31,293.200012
+11/13/20,2020,ASML,ASML Holding N.V. - New York Registry Shares,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Industrial Machinery/Components,Technology,Democrat,419.59,290.929993
+11/13/20,2020,MTCH,"Match Group, Inc.",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,419.59,290.929993
+11/13/20,2020,ERIC,Ericsson - American Depositary Shares each representing 1 underlying Class B share,purchase,15001,50000,32501,Greg Gianforte,MT00,MT,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Republican,419.59,290.929993
+11/13/20,2020,WIX,Wix.com ltd. - Ordinary Shares,purchase,15001,50000,32501,Greg Gianforte,MT00,MT,FALSE,EDP Services,Technology,Republican,419.59,290.929993
+11/12/20,2020,SAP,SAP SE ADS,purchase,1001,15000,8001,Earl Blumenauer,OR03,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,117.43,288.399994
+11/12/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Ed Perlmutter,CO07,CO,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,117.43,288.399994
+11/12/20,2020,QCOM,QUALCOMM Incorporated,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,117.43,288.399994
+11/6/20,2020,SNAP,Snap Inc. Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,45.38,294.609985
+11/6/20,2020,SNOW,Snowflake Inc. Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,45.38,294.609985
+11/5/20,2020,FSLR,"First Solar, Inc.",purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,Semiconductors,Technology,Democrat,86.9,294.390015
+11/5/20,2020,FSLR,"First Solar, Inc.",purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,Semiconductors,Technology,Democrat,86.9,294.390015
+11/5/20,2020,INTC,Intel Corporation,purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,Semiconductors,Technology,Democrat,86.9,294.390015
+11/5/20,2020,INTC,Intel Corporation,purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,Semiconductors,Technology,Democrat,86.9,294.390015
+11/5/20,2020,ORCL,Oracle Corporation,purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,86.9,294.390015
+11/5/20,2020,ORCL,Oracle Corporation,purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,86.9,294.390015
+11/5/20,2020,SAP,SAP SE ADS,purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,86.9,294.390015
+11/5/20,2020,SAP,SAP SE ADS,purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,86.9,294.390015
+11/4/20,2020,ERIC,Ericsson,purchase,15001,50000,32501,Gilbert Cisneros,CA39,CA,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,11.52,286.910004
+11/4/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Manufacturing,Technology,Democrat,11.52,286.910004
+11/4/20,2020,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Semiconductors,Technology,Democrat,11.52,286.910004
+11/4/20,2020,NTAP,Net App Inc / Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,11.52,286.910004
+11/4/20,2020,NTAP,Net App Inc / Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,11.52,286.910004
+11/4/20,2020,NTAP,Net App Inc / Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,11.52,286.910004
+11/4/20,2020,LITE,Lumentum Holdings Inc.,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Computer peripheral equipment,Technology,Democrat,11.52,286.910004
+11/4/20,2020,FOUR,"Shift4 Payments, Inc. Class A",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,11.52,286.910004
+11/3/20,2020,MU,MICRON TECHNOLOGY INC,purchase,1001,15000,8001,Michael T. McCaul,TX10,TX,FALSE,Semiconductors,Technology,Republican,51.08,274.649994
+11/3/20,2020,MU,MICRON TECHNOLOGY INC,purchase,1001,15000,8001,Michael T. McCaul,TX10,TX,FALSE,Semiconductors,Technology,Republican,51.08,274.649994
+11/3/20,2020,SPLK,Splunk Inc.,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,51.08,274.649994
+11/3/20,2020,TEL,TE Connectivity Ltd. New Switzerland Registered Shares,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Electronic Components,Technology,Democrat,51.08,274.649994
+11/2/20,2020,SNAP,Snap Inc. Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,40.79,269.980011
+10/30/20,2020,MU,"Micron Technology, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Semiconductors,Technology,Democrat,50.34,269.380005
+10/30/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,Computer Manufacturing,Technology,Democrat,50.34,269.380005
+10/29/20,2020,AAPL,Apple Inc.,purchase,15001,50000,32501,Gilbert Cisneros,CA39,CA,FALSE,Computer Manufacturing,Technology,Democrat,115.32,276.390015
+10/29/20,2020,VIAV,Viavi Solutions Inc.,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Semiconductors,Technology,Democrat,115.32,276.390015
+10/29/20,2020,BIDU,"Baidu, Inc. - American Depository Shares, each representing one tenth Class A ordinary share",purchase,1001,15000,8001,Dwight Evans,PA03,PA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,115.32,276.390015
+10/29/20,2020,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Dwight Evans,PA03,PA,FALSE,Computer Manufacturing,Technology,Democrat,115.32,276.390015
+10/29/20,2020,CRM,Salesforce.com Inc,purchase,1001,15000,8001,Dwight Evans,PA03,PA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,115.32,276.390015
+10/28/20,2020,GWRE,"Guidewire Software, Inc.",purchase,100001,250000,175001,Greg Gianforte,MT00,MT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,98.32,271.640015
+10/28/20,2020,ENPH,"Enphase Energy, Inc.",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Electrical Products,Technology,Democrat,98.32,271.640015
+10/28/20,2020,FTNT,"Forinet, Inc.",purchase,1001,15000,8001,Susan A. Davis,CA53,CA,FALSE,Computer peripheral equipment,Technology,Democrat,98.32,271.640015
+10/28/20,2020,VSAT,"ViaSat, Inc.",purchase,1001,15000,8001,Susan A. Davis,CA53,CA,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,98.32,271.640015
+10/26/20,2020,ROG,Rogers Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Industrial Machinery/Components,Technology,Democrat,107.94,280.470001
+10/26/20,2020,TXN,Texas Instruments Incorporated,purchase,1001,15000,8001,David E. Price,NC04,NC,FALSE,Semiconductors,Technology,Democrat,107.94,280.470001
+10/26/20,2020,CTXS,"Citrix Systems, Inc.",purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,107.94,280.470001
+10/23/20,2020,NTAP,Net App Inc. / Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,46.89,284.73999
+10/23/20,2020,NTAP,Net App Inc. / Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,46.89,284.73999
+10/23/20,2020,NTAP,Net App Inc. / Stock,purchase,1001,15000,8001,Doug Lamborn,CO05,CO,FALSE,Electronic Components,Technology,Republican,46.89,284.73999
+10/19/20,2020,LDOS,"Leidos Holdings, Inc.",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,86.36,283.799988
+10/19/20,2020,LITE,Lumentum Holdings Inc.,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Computer peripheral equipment,Technology,Democrat,86.36,283.799988
+10/19/20,2020,RXT,"Rackspace Technology, Inc.",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,86.36,283.799988
+10/16/20,2020,FLT,"FleetCor Technologies, Inc.",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,249.59,288.51001
+10/16/20,2020,LYFT,"Lyft, Inc. - Class A",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,249.59,288.51001
+10/16/20,2020,ITW,Illinois Tool Works Inc.,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Industrial Machinery/Components,Technology,Republican,249.59,288.51001
+10/16/20,2020,AAPL,Apple Inc.,purchase,15001,50000,32501,K. Michael Conaway,TX11,TX,FALSE,Computer Manufacturing,Technology,Republican,249.59,288.51001
+10/16/20,2020,AAPL,Apple Inc.,purchase,15001,50000,32501,K. Michael Conaway,TX11,TX,FALSE,Computer Manufacturing,Technology,Republican,249.59,288.51001
+10/15/20,2020,FB,"Facebook, Inc. - Class A",purchase,1001,15000,8001,John A. Yarmuth,KY03,KY,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,266.72,290.100006
+10/13/20,2020,MTCH,"Match Group, Inc.",purchase,15001,50000,32501,Gilbert Cisneros,CA39,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,111.16,294.519989
+10/9/20,2020,MTCH,"Match Group, Inc.",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,112.38,285.709991
+10/7/20,2020,CDAY,Ceridian HCM Holding Inc.,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,EDP Services,Technology,Democrat,88,279.920013
+10/7/20,2020,LITE,Lumentum Holdings Inc.,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Computer peripheral equipment,Technology,Democrat,88,279.920013
+10/2/20,2020,MU,"Micron Technology, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Semiconductors,Technology,Democrat,46.55,274.309998
+10/2/20,2020,LDOS,"Leidos Holdings, Inc.",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,46.55,274.309998
+10/2/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Robert J. Wittman,VA01,VA,FALSE,Computer Software: Prepackaged Software,Technology,Republican,46.55,274.309998
+10/1/20,2020,MU,"Micron Technology, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Semiconductors,Technology,Democrat,47.92,282.25
+9/30/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Suzan K. DelBene,WA01,WA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,210.33,277.839996
+9/30/20,2020,TXN,Texas Instruments Incorporated,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,210.33,277.839996
+9/25/20,2020,CRM,Salesforce.com Inc,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,242.74,271.559998
+9/25/20,2020,SQ,"Square, Inc. Class A",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,242.74,271.559998
+9/25/20,2020,WDAY,"Workday, Inc. - Class A",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,242.74,271.559998
+9/24/20,2020,AVLR,Avalara Inc.,purchase,100001,250000,175001,Greg Gianforte,MT00,MT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,123.71,265.390015
+9/23/20,2020,AMD,"Advanced Micro Devices, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Semiconductors,Technology,Democrat,74.73,264.160004
+9/23/20,2020,GOOGL,Alphabet Inc. - Class A,purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,74.73,264.160004
+9/23/20,2020,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,74.73,264.160004
+9/23/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Computer Manufacturing,Technology,Democrat,74.73,264.160004
+9/23/20,2020,CTXS,"Citrix Systems, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,74.73,264.160004
+9/23/20,2020,CTSH,Cognizant Technology Solutions Corporation - Class A,purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,EDP Services,Technology,Democrat,74.73,264.160004
+9/23/20,2020,EA,Electronic Arts Inc.,purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,74.73,264.160004
+9/23/20,2020,FB,"Facebook, Inc. - Class A",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,74.73,264.160004
+9/23/20,2020,INFO,IHS Markit ltd. Common Shares,purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,74.73,264.160004
+9/23/20,2020,JKHY,"Jack Henry & Associates, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,EDP Services,Technology,Democrat,74.73,264.160004
+9/23/20,2020,MSI,"Motorola Solutions, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,74.73,264.160004
+9/23/20,2020,CRM,Salesforce.com Inc,purchase,15001,50000,32501,Dean Phillips,MN03,MN,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,74.73,264.160004
+9/23/20,2020,NOW,"ServiceNow, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,74.73,264.160004
+9/23/20,2020,VRSN,"VeriSign, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,EDP Services,Technology,Democrat,74.73,264.160004
+9/23/20,2020,XLNX,"Xilinx, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Semiconductors,Technology,Democrat,74.73,264.160004
+9/23/20,2020,CDAY,Ceridian HCM Holding Inc.,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,EDP Services,Technology,Democrat,74.73,264.160004
+9/21/20,2020,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,1431.16,267.51001
+9/18/20,2020,SQ,"Square, Inc. Class A",purchase,1001,15000,8001,Ed Perlmutter,CO07,CO,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,145.01,266.869995
+9/18/20,2020,DNB,"Dun & Bradstreet Holdings, Inc.",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Internet and Information Services,Technology,Democrat,145.01,266.869995
+9/16/20,2020,FB,"Facebook, Inc. - Class A",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,263.52,274.609985
+9/16/20,2020,NOW,"ServiceNow, Inc.",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,263.52,274.609985
+9/15/20,2020,ATVI,"Activision Blizzard, Inc",purchase,15001,50000,32501,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,81.75,279.059998
+9/15/20,2020,BEEM,Beam Global,purchase,15001,50000,32501,Brian Mast,FL18,FL,FALSE,Semiconductors,Technology,Republican,81.75,279.059998
+9/15/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,81.75,279.059998
+9/14/20,2020,AMD,"Advanced Micro Devices, Inc.",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,77.9,275.160004
+9/11/20,2020,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Lloyd Doggett,TX35,TX,FALSE,Computer Manufacturing,Technology,Democrat,121.46,270.450012
+9/10/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,205.37,272.339996
+9/8/20,2020,GOOGL,Alphabet Inc. - Class A,purchase,15001,50000,32501,K. Michael Conaway,TX11,TX,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,1523.6,269.950012
+9/4/20,2020,NVDA,NVIDIA Corporation,purchase,15001,50000,32501,Brian Higgins,NY26,NY,FALSE,Semiconductors,Technology,Democrat,504.9,283.579987
+9/3/20,2020,CRWD,"CrowdStrike Holdings, Inc. - Class A",purchase,500001,1000000,750001,Nancy Pelosi,CA12,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,129.25,287.410004
+9/3/20,2020,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Ed Perlmutter,CO07,CO,FALSE,Semiconductors,Technology,Democrat,129.25,287.410004
+9/3/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Roger W. Marshall,KS01,KS,FALSE,Computer Software: Prepackaged Software,Technology,Republican,129.25,287.410004
+9/2/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,Bob Gibbs,OH07,OH,FALSE,Computer Manufacturing,Technology,Republican,131.4,302.76001
+9/2/20,2020,MTSI,"MACOM Technology Solutions Holdings, Inc.",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Semiconductors,Technology,Democrat,131.4,302.76001
+9/2/20,2020,SLAB,"Silicon Laboratories, Inc.",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Semiconductors,Technology,Democrat,131.4,302.76001
+9/2/20,2020,INTC,Intel Corporation,purchase,1001,15000,8001,Roger W. Marshall,KS01,KS,FALSE,Semiconductors,Technology,Republican,131.4,302.76001
+9/1/20,2020,RXT,"Rackspace Technology, Inc.",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,21,299.920013
+8/31/20,2020,MSFT,Microsoft Corporation,purchase,5000001,25000000,15000001,Suzan K. DelBene,WA01,WA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,225.53,294.880005
+8/27/20,2020,MSI,"Motorola Solutions, Inc.",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,151.81,291.049988
+8/27/20,2020,RXT,"Rackspace Technology, Inc.",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,151.81,291.049988
+8/25/20,2020,ATVI,"Activision Blizzard, Inc",purchase,15001,50000,32501,David B. McKinley,WV01,WV,FALSE,Computer Software: Prepackaged Software,Technology,Republican,83.62,285.859985
+8/25/20,2020,QCOM,QUALCOMM Incorporated,purchase,15001,50000,32501,David B. McKinley,WV01,WV,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Republican,83.62,285.859985
+8/20/20,2020,ATVI,"Activision Blizzard, Inc",purchase,1001,15000,8001,David B. McKinley,WV01,WV,FALSE,Computer Software: Prepackaged Software,Technology,Republican,83.995,279.929993
+8/20/20,2020,QCOM,QUALCOMM Incorporated,purchase,1001,15000,8001,David B. McKinley,WV01,WV,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Republican,83.995,279.929993
+8/18/20,2020,RXT,"Rackspace Technology, Inc.",purchase,15001,50000,32501,Brian Mast,FL18,FL,FALSE,EDP Services,Technology,Republican,18.89,277.970001
+8/17/20,2020,TXN,Texas Instruments Incorporated,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,138.28,275.320007
+8/12/20,2020,CCMP,Cabot Microelectronics Corporation,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Semiconductors,Technology,Democrat,168.97,271.859985
+8/12/20,2020,VIAV,Viavi Solutions Inc.,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Semiconductors,Technology,Democrat,168.97,271.859985
+8/11/20,2020,VSAT,"ViaSat, Inc.",purchase,15001,50000,32501,Greg Gianforte,MT00,MT,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Republican,41.9,265.190002
+8/11/20,2020,VSAT,"ViaSat, Inc.",purchase,1001,15000,8001,Greg Gianforte,MT00,MT,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Republican,41.9,265.190002
+8/10/20,2020,FB,"Facebook, Inc. - Class A",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,263,270.309998
+8/10/20,2020,NTAP,"NetApp, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Electronic Components,Technology,Democrat,263,270.309998
+8/10/20,2020,VSAT,"ViaSat, Inc.",purchase,15001,50000,32501,Greg Gianforte,MT00,MT,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Republican,263,270.309998
+8/10/20,2020,VSAT,"ViaSat, Inc.",purchase,1001,15000,8001,Greg Gianforte,MT00,MT,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Republican,263,270.309998
+8/10/20,2020,CCMP,Cabot Microelectronics Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,263,270.309998
+8/4/20,2020,FB,"Facebook, Inc. - Class A",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,249.83,270.380005
+8/3/20,2020,AMD,"Advanced Micro Devices, Inc.",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,77.67,269.380005
+8/3/20,2020,LDOS,"Leidos Holdings, Inc.",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,77.67,269.380005
+7/31/20,2020,INTU,Intuit Inc.,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,306.37,265.790009
+7/30/20,2020,INTU,Intuit Inc.,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,303.94,261.130005
+7/29/20,2020,NLOK,NortonLifeLock Inc.,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,21.18,259.769989
+7/28/20,2020,OLED,Universal Display Corporation,purchase,1001,,1001,Alan S. Lowenthal,CA47,CA,FALSE,Industrial Machinery/Components,Technology,Democrat,164.46,256.809998
+7/28/20,2020,OLED,Universal Display Corporation,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,Industrial Machinery/Components,Technology,Democrat,164.46,256.809998
+7/28/20,2020,CSCO,"Cisco Systems, Inc.",purchase,15001,50000,32501,Carol Devine Miller,WV03,WV,FALSE,Computer Communications Equipment,Technology,Republican,164.46,256.809998
+7/27/20,2020,OLED,Universal Display Corporation,purchase,1001,,1001,Alan S. Lowenthal,CA47,CA,FALSE,Industrial Machinery/Components,Technology,Democrat,170.41,260.119995
+7/27/20,2020,OLED,Universal Display Corporation,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,Industrial Machinery/Components,Technology,Democrat,170.41,260.119995
+7/27/20,2020,INTC,Intel Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,170.41,260.119995
+7/27/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,170.41,260.119995
+7/27/20,2020,CRM,Salesforce.com Inc,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,170.41,260.119995
+7/27/20,2020,TXN,Texas Instruments Incorporated,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,170.41,260.119995
+7/24/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,Ed Perlmutter,CO07,CO,FALSE,Computer Manufacturing,Technology,Democrat,370.46,255.559998
+7/24/20,2020,INTC,Intel Corporation,purchase,1001,15000,8001,Earl Blumenauer,OR03,OR,FALSE,Semiconductors,Technology,Democrat,370.46,255.559998
+7/22/20,2020,CDAY,Ceridian HCM Holding Inc.,purchase,15001,50000,32501,Gilbert Cisneros,CA39,CA,FALSE,EDP Services,Technology,Democrat,80.71,264.929993
+7/22/20,2020,IR,Ingersoll Rand Inc.,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Industrial Machinery/Components,Technology,Democrat,80.71,264.929993
+7/21/20,2020,CDAY,Ceridian HCM Holding Inc.,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,EDP Services,Technology,Democrat,80.57,264
+7/21/20,2020,IR,Ingersoll Rand Inc.,purchase,15001,50000,32501,Gilbert Cisneros,CA39,CA,FALSE,Industrial Machinery/Components,Technology,Democrat,80.57,264
+7/15/20,2020,INTC,Intel Corporation,purchase,1001,15000,8001,Lois Frankel,FL21,FL,FALSE,Semiconductors,Technology,Democrat,59.03,260.899994
+7/1/20,2020,AAPL,Apple Inc.,purchase,15001,50000,32501,K. Michael Conaway,TX11,TX,FALSE,Computer Manufacturing,Technology,Republican,364.11,250.490005
+6/30/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Suzan K. DelBene,WA01,WA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,203.48,247.600006
+6/26/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,353.63,240.220001
+6/24/20,2020,WK,Workiva Inc. Class A,purchase,100001,250000,175001,Greg Gianforte,MT00,MT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,52.74,243.710007
+6/24/20,2020,FB,Facebook Inc - Class A,purchase,1001,15000,8001,Cynthia Axne,IA03,IA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,52.74,243.710007
+6/24/20,2020,EPAY,Bottomline Tech Del Inc,purchase,1001,15000,8001,David P. Roe,TN01,TN,FALSE,EDP Services,Technology,Republican,52.74,243.710007
+6/24/20,2020,VRNT,Verint Systems Inc,purchase,1001,15000,8001,David P. Roe,TN01,TN,FALSE,EDP Services,Technology,Republican,52.74,243.710007
+6/24/20,2020,GOOGL,Alphabet Inc. - Class A,purchase,1001,15000,8001,John A. Yarmuth,KY03,KY,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,52.74,243.710007
+6/24/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,John A. Yarmuth,KY03,KY,FALSE,Computer Manufacturing,Technology,Republican,52.74,243.710007
+6/24/20,2020,ASML,ASML Holding N.V. - New York Registry Shares,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Industrial Machinery/Components,Technology,Democrat,52.74,243.710007
+6/23/20,2020,MSFT,Microsoft Corp GLB,purchase,1001,15000,8001,David P. Roe,TN01,TN,FALSE,Computer Software: Prepackaged Software,Technology,Republican,201.91,248.839996
+6/22/20,2020,MSI,"Motorola Solutions, Inc.",purchase,1001,15000,8001,Robert J. Wittman,VA01,VA,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Republican,141.13,246.740005
+6/18/20,2020,CRM,Salesforce.com Inc,purchase,1000001,5000000,3000001,Nancy Pelosi,CA12,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,187.66,244.279999
+6/17/20,2020,INTC,Intel Corporation,purchase,1001,15000,8001,Lois Frankel,FL21,FL,FALSE,Semiconductors,Technology,Democrat,60.49,243.619995
+6/16/20,2020,CSCO,"Cisco Systems, Inc.",purchase,1001,15000,8001,Zoe Lofgren,CA19,CA,FALSE,Computer Communications Equipment,Technology,Democrat,46.48,242.850006
+6/16/20,2020,QCOM,QUALCOMM Incorporated,purchase,1001,15000,8001,Zoe Lofgren,CA19,CA,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,46.48,242.850006
+6/11/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,186.27,234.020004
+6/11/20,2020,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Lloyd Doggett,TX35,TX,FALSE,Computer Manufacturing,Technology,Democrat,186.27,234.020004
+6/10/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Ed Perlmutter,CO07,CO,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,196.84,246.220001
+6/10/20,2020,SEDG,"SolarEdge Technologies, Inc.",purchase,1001,15000,8001,Lois Frankel,FL21,FL,FALSE,Semiconductors,Technology,Democrat,196.84,246.220001
+6/9/20,2020,FLT,"FleetCor Technologies, Inc.",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,276.61,243.300003
+6/5/20,2020,LYFT,"Lyft, Inc. - Class A",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,38.61,239.690002
+6/5/20,2020,SABR,Sabre Corporation,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,38.61,239.690002
+6/4/20,2020,CRM,Salesforce.com Inc,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,171.44,235.029999
+6/4/20,2020,CRM,Salesforce.com Inc,purchase,15001,50000,32501,Alan S. Lowenthal,CA47,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,171.44,235.029999
+6/4/20,2020,CRM,Salesforce.com Inc,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,171.44,235.029999
+6/4/20,2020,SABR,Sabre Corporation,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,171.44,235.029999
+6/3/20,2020,NVDA,Nivida,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Semiconductors,Technology,Democrat,350.78,236.690002
+6/3/20,2020,ADBE,Adobe,purchase,1001,15000,8001,Kurt Schrader,OR05,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,350.78,236.690002
+6/3/20,2020,SABR,Sabre Corporation,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,350.78,236.690002
+6/2/20,2020,HPQ,HP Inc.,purchase,1001,15000,8001,Earl Blumenauer,OR03,OR,FALSE,Computer Manufacturing,Technology,Democrat,15.79,235.630005
+5/28/20,2020,CRM,Salesforce.com Inc,purchase,1001,15000,8001,William R. Timmons,SC04,SC,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,181.1,229.990005
+5/27/20,2020,INTC,Intel Corporation,purchase,1001,15000,8001,Lois Frankel,FL21,FL,FALSE,Semiconductors,Technology,Democrat,63.56,230.289993
+5/22/20,2020,FB,"Facebook, Inc. - Class A",purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,234.91,229.660004
+5/19/20,2020,AAPL,Apple Inc.,purchase,15001,50000,32501,K. Michael Conaway,TX11,TX,FALSE,Computer Manufacturing,Technology,Republican,313.14,226.860001
+5/18/20,2020,TXN,Texas Instruments Incorporated,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,114.42,227.429993
+5/15/20,2020,VIAV,Viavi Solutions Inc.,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Semiconductors,Technology,Democrat,10.72,223.270004
+5/13/20,2020,FB,"Facebook, Inc. - Class A",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,205.1,219.339996
+5/11/20,2020,VIAV,Viavi Solutions Inc.,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Semiconductors,Technology,Democrat,11.87,226.869995
+5/8/20,2020,FEYE,"FireEye, Inc.",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Computer peripheral equipment,Technology,Democrat,12.18,224.860001
+5/8/20,2020,WDAY,"Workday, Inc. - Class A",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,12.18,224.860001
+5/7/20,2020,JKHY,"Jack Henry & Associates, Inc.",purchase,100001,250000,175001,Greg Gianforte,MT00,MT,FALSE,EDP Services,Technology,Republican,183.81,221.820007
+5/7/20,2020,VIAV,Viavi Solutions Inc.,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,183.81,221.820007
+5/5/20,2020,VIAV,Viavi Solutions Inc.,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,12.13,217.660004
+5/4/20,2020,AMD,"Advanced Micro Devices, Inc.",purchase,1001,15000,8001,Roger W. Marshall,KS01,KS,FALSE,Semiconductors,Technology,Republican,52.56,215.220001
+4/30/20,2020,GOOGL,Alphabet Inc. - Class A,purchase,1001,15000,8001,David B. McKinley,WV01,WV,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,1346.369,218.910004
+4/30/20,2020,GOOGL,Alphabet Inc. - Class A,purchase,1001,15000,8001,David B. McKinley,WV01,WV,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,1346.369,218.910004
+4/30/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,David B. McKinley,WV01,WV,FALSE,Computer Manufacturing,Technology,Republican,1346.369,218.910004
+4/30/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,David B. McKinley,WV01,WV,FALSE,Computer Manufacturing,Technology,Republican,1346.369,218.910004
+4/30/20,2020,FB,"Facebook, Inc. - Class A",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,1346.369,218.910004
+4/29/20,2020,CACI,"CaCI International, Inc. Class A",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,EDP Services,Technology,Democrat,255.2,219
+4/29/20,2020,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Computer Manufacturing,Technology,Democrat,255.2,219
+4/28/20,2020,WDC,Western Digital Corporation,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Electronic Components,Technology,Democrat,44.7,211.5
+4/27/20,2020,RHI,Robert Half International Inc.,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Professional Services,Technology,Democrat,45.51,215.559998
+4/27/20,2020,ASGN,ASGN Incorporated,purchase,1001,15000,8001,Greg Gianforte,MT00,MT,FALSE,EDP Services,Technology,Republican,45.51,215.559998
+4/24/20,2020,ASGN,ASGN Incorporated,purchase,50001,100000,75001,Greg Gianforte,MT00,MT,FALSE,EDP Services,Technology,Republican,39.29,213.839996
+4/23/20,2020,SNAP,Snap Inc. Class A,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,16.06,210.520004
+4/17/20,2020,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,53.69,215.289993
+4/15/20,2020,AAPL,Apple Inc.,purchase,15001,50000,32501,K. Michael Conaway,TX11,TX,FALSE,Computer Manufacturing,Technology,Republican,284.43,209.429993
+4/15/20,2020,AAPL,Apple Inc.,purchase,50001,100000,75001,K. Michael Conaway,TX11,TX,FALSE,Computer Manufacturing,Technology,Republican,284.43,209.429993
+4/15/20,2020,VSAT,"ViaSat, Inc.",purchase,1001,15000,8001,Susan A. Davis,CA53,CA,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,284.43,209.429993
+4/14/20,2020,BIDU,"Baidu, Inc. - American Depositary Shares, each Representing one Tenth Class A Ordinary Share",purchase,50001,100000,75001,Greg Gianforte,MT00,MT,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,100.92,211.860001
+4/9/20,2020,NLOK,NortonLifeLock Inc.,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,19.37,200.860001
+4/9/20,2020,WDC,Western Digital Corporation,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Electronic Components,Technology,Democrat,19.37,200.860001
+4/9/20,2020,ADBE,Adobe Inc.,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,19.37,200.860001
+4/9/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,19.37,200.860001
+4/9/20,2020,CRM,Salesforce.com Inc,purchase,1001,15000,8001,Earl Blumenauer,OR03,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,19.37,200.860001
+4/8/20,2020,NLOK,NortonLifeLock Inc.,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,19.58,200.570007
+4/8/20,2020,WDC,Western Digital Corporation,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Electronic Components,Technology,Democrat,19.58,200.570007
+4/8/20,2020,UPLD,"Upland Software, Inc.",purchase,15001,50000,32501,Greg Gianforte,MT00,MT,FALSE,EDP Services,Technology,Republican,19.58,200.570007
+4/7/20,2020,FLT,"FleetCor Technologies, Inc.",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,210.36,196.399994
+4/6/20,2020,GDDY,GoDaddy Inc. Class A,purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,58.82,196.479996
+4/6/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,Susan W. Brooks,IN05,IN,FALSE,Computer Manufacturing,Technology,Republican,58.82,196.479996
+4/6/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Susan W. Brooks,IN05,IN,FALSE,Computer Software: Prepackaged Software,Technology,Republican,58.82,196.479996
+4/6/20,2020,QCOM,QUALCOMM Incorporated,purchase,1001,15000,8001,Susan W. Brooks,IN05,IN,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Republican,58.82,196.479996
+4/6/20,2020,UPLD,"Upland Software, Inc.",purchase,15001,50000,32501,Greg Gianforte,MT00,MT,FALSE,EDP Services,Technology,Republican,58.82,196.479996
+4/3/20,2020,GOOGL,Alphabet Inc. - Class A,purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,1092.7,183.369995
+4/3/20,2020,GOOGL,Alphabet Inc. - Class A,purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,1092.7,183.369995
+4/3/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,Computer Manufacturing,Technology,Democrat,1092.7,183.369995
+4/3/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,Katherine M. Clark,MA05,MA,FALSE,Computer Manufacturing,Technology,Democrat,1092.7,183.369995
+4/3/20,2020,SSNC,"SS&C Technologies Holdings, Inc.",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,EDP Services,Technology,Democrat,1092.7,183.369995
+4/2/20,2020,SSNC,"SS&C Technologies Holdings, Inc.",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,EDP Services,Technology,Democrat,40.96,186.009995
+4/2/20,2020,UPLD,"Upland Software, Inc.",purchase,50001,100000,75001,Greg Gianforte,MT00,MT,FALSE,EDP Services,Technology,Republican,40.96,186.009995
+4/2/20,2020,AMD,"Advanced Micro Devices, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Semiconductors,Technology,Democrat,40.96,186.009995
+4/2/20,2020,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,40.96,186.009995
+4/2/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Computer Manufacturing,Technology,Democrat,40.96,186.009995
+4/2/20,2020,ADSK,"Autodesk, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,40.96,186.009995
+4/2/20,2020,CTXS,"Citrix Systems, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,40.96,186.009995
+4/2/20,2020,NOW,"ServiceNow, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,40.96,186.009995
+4/2/20,2020,URI,"United Rentals, Inc.",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Diversified Commercial Services,Technology,Democrat,40.96,186.009995
+3/31/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Suzan K. DelBene,WA01,WA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,157.71,190.399994
+3/27/20,2020,ATVI,"Activision Blizzard, Inc",purchase,1001,15000,8001,John Curtis,UT03,UT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,56.96,185.300003
+3/27/20,2020,ADBE,Adobe Inc.,purchase,1001,15000,8001,John Curtis,UT03,UT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,56.96,185.300003
+3/27/20,2020,GOOGL,Alphabet Inc. - Class A,purchase,15001,50000,32501,John Curtis,UT03,UT,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,56.96,185.300003
+3/27/20,2020,AAPL,Apple Inc.,purchase,15001,50000,32501,John Curtis,UT03,UT,FALSE,Computer Manufacturing,Technology,Republican,56.96,185.300003
+3/27/20,2020,AMAT,"Applied Materials, Inc.",purchase,1001,15000,8001,John Curtis,UT03,UT,FALSE,Semiconductors,Technology,Republican,56.96,185.300003
+3/27/20,2020,FB,"Facebook, Inc. - Class A",purchase,15001,50000,32501,John Curtis,UT03,UT,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,56.96,185.300003
+3/27/20,2020,INTC,Intel Corporation,purchase,1001,15000,8001,John Curtis,UT03,UT,FALSE,Semiconductors,Technology,Republican,56.96,185.300003
+3/27/20,2020,LRCX,Lam Research Corporation,purchase,1001,15000,8001,John Curtis,UT03,UT,FALSE,Industrial Machinery/Components,Technology,Republican,56.96,185.300003
+3/27/20,2020,MSFT,Microsoft Corporation,purchase,15001,50000,32501,John Curtis,UT03,UT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,56.96,185.300003
+3/27/20,2020,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,John Curtis,UT03,UT,FALSE,Semiconductors,Technology,Republican,56.96,185.300003
+3/27/20,2020,CRM,Salesforce.com Inc,purchase,1001,15000,8001,John Curtis,UT03,UT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,56.96,185.300003
+3/27/20,2020,TXN,Texas Instruments Incorporated,purchase,1001,15000,8001,John Curtis,UT03,UT,FALSE,Semiconductors,Technology,Republican,56.96,185.300003
+3/26/20,2020,CACI,"CACI International, Inc. Class A",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,EDP Services,Technology,Democrat,217.15,191.899994
+3/26/20,2020,SSNC,"SS&C Technologies Holdings, Inc.",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,EDP Services,Technology,Democrat,217.15,191.899994
+3/26/20,2020,MSFT,Microsoft Corporation,purchase,250001,500000,375001,Kevin Hern,OK01,OK,FALSE,Computer Software: Prepackaged Software,Technology,Republican,217.15,191.899994
+3/26/20,2020,TXN,Texas Instruments Incorporated,purchase,100001,250000,175001,Kevin Hern,OK01,OK,FALSE,Semiconductors,Technology,Republican,217.15,191.899994
+3/26/20,2020,SQ,"Square, Inc. Class A",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,217.15,191.899994
+3/24/20,2020,CACI,"CACI International, Inc. Class A",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,EDP Services,Technology,Democrat,197.65,183.660004
+3/24/20,2020,MSFT,Microsoft Corporation,purchase,50001,100000,75001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,197.65,183.660004
+3/23/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,224.37,170.460007
+3/23/20,2020,GOOGL,Alphabet Inc. - Class A,purchase,15001,50000,32501,David B. McKinley,WV01,WV,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,224.37,170.460007
+3/23/20,2020,CACI,"CACI International, Inc. Class A",purchase,15001,50000,32501,David B. McKinley,WV01,WV,FALSE,EDP Services,Technology,Republican,224.37,170.460007
+3/20/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,229.24,170.699997
+3/20/20,2020,MSFT,Microsoft Corporation,purchase,50001,100000,75001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,229.24,170.699997
+3/20/20,2020,MSFT,Microsoft Corporation,purchase,100001,250000,175001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,229.24,170.699997
+3/20/20,2020,EVBG,Everbridge Inc,purchase,1001,15000,8001,Tom Malinowski,NJ07,NJ,FALSE,Retail: Computer Software & Peripheral Equipment,Technology,Democrat,229.24,170.699997
+3/18/20,2020,AAPL,Apple,purchase,1001,15000,8001,James Comer,KY01,KY,FALSE,Computer Manufacturing,Technology,Republican,246.67,176.600006
+3/18/20,2020,GOOGL,Alphabet Inc. - Class A,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,246.67,176.600006
+3/18/20,2020,TEAM,Atlassian Corporation Plc - Class A Ordinary Shares,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,EDP Services,Technology,Democrat,246.67,176.600006
+3/18/20,2020,FLT,"FleetCor Technologies, Inc.",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,EDP Services,Technology,Democrat,246.67,176.600006
+3/18/20,2020,FLEX,Flex Ltd. - Ordinary Shares,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Electrical Products,Technology,Democrat,246.67,176.600006
+3/18/20,2020,INFO,IHS Markit Ltd. Common Shares,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,246.67,176.600006
+3/18/20,2020,IR,Ingersoll Rand Inc.,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Industrial Machinery/Components,Technology,Democrat,246.67,176.600006
+3/18/20,2020,MCHP,Microchip Technology Incorporated,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Semiconductors,Technology,Democrat,246.67,176.600006
+3/18/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,246.67,176.600006
+3/18/20,2020,NATI,National Instruments Corporation,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,246.67,176.600006
+3/18/20,2020,ON,ON Semiconductor Corporation,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Semiconductors,Technology,Democrat,246.67,176.600006
+3/18/20,2020,ORCL,Oracle Corporation,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,246.67,176.600006
+3/18/20,2020,SSNC,"SS&C Technologies Holdings, Inc.",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,EDP Services,Technology,Democrat,246.67,176.600006
+3/18/20,2020,TTWO,"Take-Two Interactive Software, Inc.",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,246.67,176.600006
+3/18/20,2020,VRSN,"VeriSign, Inc.",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,EDP Services,Technology,Democrat,246.67,176.600006
+3/18/20,2020,XLNX,"Xilinx, Inc.",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Semiconductors,Technology,Democrat,246.67,176.600006
+3/18/20,2020,ERIC,Ericsson - American Depositary Shares each Representing 1 Underlying Class B Share,purchase,1001,15000,8001,Greg Gianforte,MT00,MT,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Republican,246.67,176.600006
+3/18/20,2020,NOK,Nokia Corporation Sponsored American Depositary Shares,purchase,1001,15000,8001,Greg Gianforte,MT00,MT,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Republican,246.67,176.600006
+3/17/20,2020,MSFT,Microsoft Corporation,purchase,15001,50000,32501,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,146.57,182.139999
+3/17/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,146.57,182.139999
+3/16/20,2020,BIDU,"Baidu, Inc. - American Depositary Shares, each Representing one Tenth Class A Ordinary Share",purchase,1001,15000,8001,Susan A. Davis,CA53,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,89.68,169.300003
+3/16/20,2020,FB,"Facebook, Inc. - Class A",purchase,15001,50000,32501,Susan A. Davis,CA53,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,89.68,169.300003
+3/16/20,2020,FTNT,"Fortinet, Inc.",purchase,15001,50000,32501,Susan A. Davis,CA53,CA,FALSE,Computer peripheral equipment,Technology,Democrat,89.68,169.300003
+3/12/20,2020,MSFT,Microsoft Corporation,purchase,15001,50000,32501,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,139.06,177.320007
+3/12/20,2020,MSFT,Microsoft Corporation,purchase,50001,100000,75001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,139.06,177.320007
+3/12/20,2020,MSFT,Microsoft Corporation,purchase,50001,100000,75001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,139.06,177.320007
+3/12/20,2020,MSFT,Microsoft Corporation,purchase,50001,100000,75001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,139.06,177.320007
+3/12/20,2020,MSFT,Microsoft Corporation,purchase,50001,100000,75001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,139.06,177.320007
+3/12/20,2020,MSFT,Microsoft Corporation,purchase,50001,100000,75001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,139.06,177.320007
+3/11/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,John Curtis,UT03,UT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,153.63,195.220001
+3/11/20,2020,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Lloyd Doggett,TX35,TX,FALSE,Computer Manufacturing,Technology,Democrat,153.63,195.220001
+3/10/20,2020,INTC,Intel Corporation,purchase,1001,15000,8001,Earl Blumenauer,OR03,OR,FALSE,Semiconductors,Technology,Democrat,53.98,204.110001
+3/10/20,2020,RPD,"Rapid7, Inc.",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,53.98,204.110001
+3/9/20,2020,GOOGL,Alphabet Inc. - Class A,purchase,1001,15000,8001,David B. McKinley,WV01,WV,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,1215.79,193.570007
+3/9/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,David B. McKinley,WV01,WV,FALSE,Computer Manufacturing,Technology,Republican,1215.79,193.570007
+3/6/20,2020,MSFT,Microsoft Corporation,purchase,15001,50000,32501,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,161.57,208.020004
+3/6/20,2020,MSFT,Microsoft Corporation,purchase,100001,250000,175001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,161.57,208.020004
+3/6/20,2020,MSFT,Microsoft Corporation,purchase,100001,250000,175001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,161.57,208.020004
+3/6/20,2020,MSFT,Microsoft Corporation,purchase,100001,250000,175001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,161.57,208.020004
+3/5/20,2020,ETN,"Eaton Corporation, PlC Ordinary Shares",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Industrial Machinery/Components,Technology,Democrat,93.66,211.589996
+3/5/20,2020,INTC,Intel Corporation,purchase,1001,15000,8001,Earl Blumenauer,OR03,OR,FALSE,Semiconductors,Technology,Democrat,93.66,211.589996
+3/5/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,93.66,211.589996
+3/4/20,2020,VSAT,"ViaSat, Inc.",purchase,1001,15000,8001,Greg Gianforte,MT00,MT,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Republican,57.42,218.220001
+3/4/20,2020,TEAM,Atlassian Corporation Plc - Class A Ordinary Shares,purchase,1001,15000,8001,John Curtis,UT03,UT,FALSE,EDP Services,Technology,Republican,57.42,218.220001
+3/4/20,2020,ZM,"Zoom Video Communications, Inc. - Class A",purchase,1001,15000,8001,John Curtis,UT03,UT,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,57.42,218.220001
+3/4/20,2020,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,57.42,218.220001
+3/4/20,2020,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,1001,15000,8001,Alan S. Lowenthal,CA47,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,57.42,218.220001
+3/3/20,2020,VSAT,"ViaSat, Inc.",purchase,15001,50000,32501,Greg Gianforte,MT00,MT,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Republican,59.03,209.479996
+3/3/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,Earl Blumenauer,OR03,OR,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,59.03,209.479996
+3/2/20,2020,INTC,Intel Corporation,purchase,1001,15000,8001,Dwight Evans,PA03,PA,FALSE,Semiconductors,Technology,Democrat,58.18,216.419998
+3/2/20,2020,MSFT,Microsoft Corporation,purchase,500001,1000000,750001,Suzan K. DelBene,WA01,WA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,58.18,216.419998
+2/28/20,2020,LRCX,Lam Research Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Industrial Machinery/Components,Technology,Democrat,293.43,205.800003
+2/28/20,2020,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Semiconductors,Technology,Democrat,293.43,205.800003
+2/28/20,2020,GOOGL,Alphabet Inc. - Class A,purchase,1001,15000,8001,Richard W. Allen,GA12,GA,FALSE,"Computer Software: Programming, Data Processing",Technology,Republican,293.43,205.800003
+2/28/20,2020,MSFT,Microsoft Corporation,purchase,100001,250000,175001,Nancy Pelosi,CA12,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,293.43,205.800003
+2/27/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,David Kustoff,TN08,TN,FALSE,Computer Software: Prepackaged Software,Technology,Republican,158.18,205.639999
+2/27/20,2020,GOOGL,Alphabet Inc. - Class A,purchase,500001,1000000,750001,Nancy Pelosi,CA12,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,158.18,205.639999
+2/26/20,2020,AAPL,Apple Inc.,purchase,15001,50000,32501,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,292.65,216.479996
+2/26/20,2020,MSFT,Microsoft Corporation,purchase,15001,50000,32501,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,292.65,216.479996
+2/24/20,2020,AAPL,Apple,purchase,1001,15000,8001,James Comer,KY01,KY,FALSE,Computer Manufacturing,Technology,Republican,298.18,221.389999
+2/24/20,2020,CRM,Salesforce.com Inc,purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,298.18,221.389999
+2/21/20,2020,RPD,"Rapid7, Inc.",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,52.99,230.270004
+2/21/20,2020,MSFT,Microsoft Corporation,purchase,500001,1000000,750001,Nancy Pelosi,CA12,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,52.99,230.270004
+2/20/20,2020,MSFT,Microsoft Corporation,purchase,250001,500000,375001,Nancy Pelosi,CA12,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,184.42,234.779999
+2/19/20,2020,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,1526.69,236.979996
+2/19/20,2020,SPLK,Splunk Inc.,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,1526.69,236.979996
+2/18/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Manufacturing,Technology,Democrat,319,234.729996
+2/14/20,2020,RPD,"Rapid7, Inc.",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,55.23,234.639999
+2/14/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,55.23,234.639999
+2/14/20,2020,SQ,"Square, Inc. Class A",purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,55.23,234.639999
+2/13/20,2020,MSFT,Microsoft Corporation,purchase,50001,100000,75001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,183.71,233.970001
+2/13/20,2020,MSFT,Microsoft Corporation,purchase,100001,250000,175001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,183.71,233.970001
+2/13/20,2020,MSFT,Microsoft Corporation,purchase,250001,500000,375001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,183.71,233.970001
+2/13/20,2020,MSFT,Microsoft Corporation,purchase,50001,100000,75001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,183.71,233.970001
+2/13/20,2020,MSFT,Microsoft Corporation,purchase,250001,500000,375001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,183.71,233.970001
+2/13/20,2020,MSFT,Microsoft Corporation,purchase,100001,250000,175001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,183.71,233.970001
+2/13/20,2020,MSFT,Microsoft Corporation,purchase,100001,250000,175001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,183.71,233.970001
+2/13/20,2020,MSFT,Microsoft Corporation,purchase,250001,500000,375001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,183.71,233.970001
+2/13/20,2020,MSFT,Microsoft Corporation,purchase,100001,250000,175001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,183.71,233.970001
+2/12/20,2020,NXPI,NXP Semiconductors N.V.,purchase,1001,15000,8001,Lois Frankel,FL21,FL,FALSE,Semiconductors,Technology,Democrat,137.83,234.270004
+2/11/20,2020,BIDU,"Baidu, Inc. - American Depositary Shares, each Representing one Tenth Class A Ordinary Share",purchase,15001,50000,32501,Susan A. Davis,CA53,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,133.99,232.009995
+2/11/20,2020,VSAT,"ViaSat, Inc.",purchase,15001,50000,32501,Susan A. Davis,CA53,CA,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,133.99,232.009995
+2/7/20,2020,NOW,"ServiceNow, Inc.",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,341.06,229.199997
+2/4/20,2020,IBM,International Business Machines Corporation,purchase,1001,15000,8001,Mikie Sherrill,NJ11,NJ,FALSE,Computer Manufacturing,Technology,Democrat,149.11,227.470001
+1/31/20,2020,ZBRA,Zebra Technologies Corporation - Class A,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,Computer peripheral equipment,Technology,Democrat,239.02,219.070007
+1/29/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,324.34,221.809998
+1/29/20,2020,NXPI,NXP Semiconductors N.V.,purchase,1001,15000,8001,Lois Frankel,FL21,FL,FALSE,Semiconductors,Technology,Democrat,324.34,221.809998
+1/29/20,2020,GDDY,GoDaddy Inc. Class A,purchase,50001,100000,75001,Gilbert Cisneros,CA39,CA,FALSE,EDP Services,Technology,Democrat,324.34,221.809998
+1/29/20,2020,INTU,Intuit Inc.,purchase,15001,50000,32501,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,324.34,221.809998
+1/29/20,2020,MTSI,"MaCoM Technology Solutions Holdings, Inc.",purchase,1001,15000,8001,Gilbert Cisneros,CA39,CA,FALSE,Semiconductors,Technology,Democrat,324.34,221.809998
+1/29/20,2020,SQ,"Square, Inc. Class A",purchase,50001,100000,75001,Gilbert Cisneros,CA39,CA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,324.34,221.809998
+1/28/20,2020,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,1452.56,221.449997
+1/28/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Manufacturing,Technology,Democrat,1452.56,221.449997
+1/28/20,2020,SQ,"Square, Inc. Class A",purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,1452.56,221.449997
+1/27/20,2020,FB,"Facebook, Inc. - Class A",purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,214.87,218.100006
+1/27/20,2020,FB,"Facebook, Inc. - Class A",purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,214.87,218.100006
+1/27/20,2020,SEDG,"SolarEdge Technologies, Inc.",purchase,1001,15000,8001,Lois Frankel,FL21,FL,FALSE,Semiconductors,Technology,Democrat,214.87,218.100006
+1/24/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,165.04,222.699997
+1/24/20,2020,SPLK,Splunk Inc.,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,165.04,222.699997
+1/24/20,2020,CRWD,"Crowdstrike Holdings, Inc. - Class A",purchase,50001,100000,75001,James R. Langevin,RI02,RI,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,165.04,222.699997
+1/22/20,2020,NXPI,NXP Semiconductors N.V.,purchase,1001,15000,8001,Lois Frankel,FL21,FL,FALSE,Semiconductors,Technology,Democrat,134.64,223.869995
+1/17/20,2020,FB,"Facebook, Inc. - Class A / Call options",purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,222.14,223.380005
+1/17/20,2020,FB,"Facebook, Inc. - Class A",purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,222.14,223.380005
+1/17/20,2020,ZBRA,Zebra Technologies Corporation - Class A,purchase,1001,15000,8001,James R. Langevin,RI02,RI,FALSE,Computer peripheral equipment,Technology,Democrat,222.14,223.380005
+1/16/20,2020,FB,"Facebook, Inc. - Class A / Exercised 30 call options (3,000 shares) expiring 1/17/20 at a strike price of $140.",purchase,250001,500000,375001,Nancy Pelosi,CA12,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,221.77,222.279999
+1/16/20,2020,FB,"Facebook, Inc. - Class A / Exercised 20 call options (2,000 shares) expiring 1/17/20 at a strike price of $150.",purchase,250001,500000,375001,Nancy Pelosi,CA12,CA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,221.77,222.279999
+1/16/20,2020,SSNC,"Ss&C Technologies Holdings, Inc.",purchase,1001,15000,8001,Lois Frankel,FL21,FL,FALSE,EDP Services,Technology,Democrat,221.77,222.279999
+1/14/20,2020,AAPL,Apple Inc.,purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,Computer Manufacturing,Technology,Democrat,312.68,220.080002
+1/14/20,2020,AAPL,Apple Inc.,purchase,15001,50000,32501,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Manufacturing,Technology,Democrat,312.68,220.080002
+1/13/20,2020,GOOG,Alphabet Inc. - Class C Capital Stock,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,1439.23,220.949997
+1/13/20,2020,YNDX,Yandex N.V. - Class A Ordinary Shares,purchase,15001,50000,32501,Greg Gianforte,MT00,MT,FALSE,Internet and Information Services,Technology,Republican,1439.23,220.949997
+1/10/20,2020,BIDU,"Baidu, Inc. - American Depositary Shares, each Representing one Tenth Class A Ordinary Share",purchase,1001,15000,8001,Josh Gottheimer,NJ05,NJ,FALSE,"Computer Software: Programming, Data Processing",Technology,Democrat,144.51,218.429993
+1/10/20,2020,NVDA,NVIDIA Corporation,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Semiconductors,Technology,Democrat,144.51,218.429993
+1/10/20,2020,ETN,"Eaton Corporation, PLC Ordinary Shares",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Industrial Machinery/Components,Technology,Democrat,144.51,218.429993
+1/9/20,2020,ENV,"Envestnet, Inc",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,EDP Services,Technology,Democrat,73.63,218.990005
+1/9/20,2020,MSFT,Microsoft Corporation,purchase,1001,15000,8001,"Donald S. Beyer, Jr.",VA08,VA,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,73.63,218.990005
+1/9/20,2020,ETN,"Eaton Corporation, PLC Ordinary Shares",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Industrial Machinery/Components,Technology,Democrat,73.63,218.990005
+1/8/20,2020,AAPL,Apple Inc.,purchase,15001,50000,32501,Bob Gibbs,OH07,OH,FALSE,Computer Manufacturing,Technology,Republican,303.19,217.149994
+1/8/20,2020,ORCL,Oracle Corporation,purchase,1001,15000,8001,Bob Gibbs,OH07,OH,FALSE,Computer Software: Prepackaged Software,Technology,Republican,303.19,217.149994
+1/8/20,2020,ETN,"Eaton Corporation, PLC Ordinary Shares",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Industrial Machinery/Components,Technology,Democrat,303.19,217.149994
+1/7/20,2020,ACIW,"ACI Worldwide, Inc.",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,38.56,215.529999
+1/7/20,2020,ETN,"Eaton Corporation, PLC Ordinary Shares",purchase,1001,15000,8001,Dean Phillips,MN03,MN,FALSE,Industrial Machinery/Components,Technology,Democrat,38.56,215.529999
+1/6/20,2020,COMM,"CommScope Holding Company, Inc.",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Radio And Television Broadcasting And Communications Equipment,Technology,Democrat,13.6,215.559998
+1/6/20,2020,RP,"RealPage, Inc.",purchase,1001,15000,8001,Susie Lee,NV03,NV,FALSE,Computer Software: Prepackaged Software,Technology,Democrat,13.6,215.559998
+1/3/20,2020,CHKP,Check Point Software Technologies Ltd. - Ordinary Shares,purchase,15001,50000,32501,Greg Gianforte,MT00,MT,FALSE,Computer Software: Prepackaged Software,Technology,Republican,112.29,214.179993
+1/3/20,2020,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,purchase,50001,100000,75001,Greg Gianforte,MT00,MT,FALSE,Semiconductors,Technology,Republican,112.29,214.179993
+1/2/20,2020,AAPL,Apple Inc.,purchase,15001,50000,32501,Bob Gibbs,OH07,OH,FALSE,Computer Manufacturing,Technology,Republican,300.35,216.160004
