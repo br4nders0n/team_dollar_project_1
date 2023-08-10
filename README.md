@@ -26,7 +26,7 @@ MSFT, AAPL, NTAP, FB, and NVDA.
 
 ### Investigate the jump in NVDA trading activity from 2020 - 2021
 
-### Which states and parties were trading NVDA 2021?
+### Which states and parties were trading NVDA in 2021?
 
 ![Screenshot 2023-08-09 at 9 23 50 PM](https://github.com/br4nders0n/team_dollar_project_1/assets/133409952/c524647e-5e3f-4e0b-85e8-89314728d147)
 
