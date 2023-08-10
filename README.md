@@ -2,6 +2,10 @@
 
 ## Analysis Summary
 
+### Which party traded tech stocks the most from 2020-2022?
+
+![Screenshot 2023-08-09 at 9 34 36 PM](https://github.com/br4nders0n/team_dollar_project_1/assets/133409952/e4da90c5-740a-40c9-ad5b-8bb6a9bf59d0)
+
 ### Which members of congress traded tech stocks the most from 2020-2022?
 
 ![Screenshot 2023-08-09 at 9 12 27 PM](https://github.com/br4nders0n/team_dollar_project_1/assets/133409952/c4a97324-c38c-4bf2-8f9c-a00b6fe1165a)
