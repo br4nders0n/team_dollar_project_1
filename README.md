@@ -2,6 +2,12 @@
 
 ## Analysis Summary
 
+For our project, we are a VC being pitched by a small startup looking for investment. The company claims you can outperform the market trading like members of congress. We created an MVP to test that theory. There have been a number of news stories lately of congressional members outperforming the market and financially benefiting from information they are privy to in their day-to-day. Our analysis and project seeks to test that theory. 
+
+Before getting started, please install "conda install geopandas" via your terminal and import the following:
+
+![Screenshot 2023-08-09 at 10 02 20 PM](https://github.com/br4nders0n/team_dollar_project_1/assets/133409952/51312ac3-4c79-4caa-9b5f-2d8c31ba759c)
+
 ### Which party traded tech stocks the most from 2020-2022?
 
 ![Screenshot 2023-08-09 at 9 34 36 PM](https://github.com/br4nders0n/team_dollar_project_1/assets/133409952/e4da90c5-740a-40c9-ad5b-8bb6a9bf59d0)
