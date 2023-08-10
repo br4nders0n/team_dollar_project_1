@@ -68,6 +68,6 @@ Yes, they do. The QQQ has appreciated 20.34% in the same period.
 
 
 
-_ Disclaimer: Analysis completed for project and illustrative purposes only._
+_Disclaimer: Analysis completed for project and illustrative purposes only._
 
 
