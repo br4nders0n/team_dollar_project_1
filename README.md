@@ -18,7 +18,7 @@ MSFT, AAPL, GOOG, NVDA, and FB,
 
 ![Screenshot 2023-08-09 at 9 14 37 PM](https://github.com/br4nders0n/team_dollar_project_1/assets/133409952/b27a5cf7-092a-4d39-a043-9d2917ac56bd)
 
-### Which tech stocks are being traded most often?
+### Which tech stocks are traded most often?
 
 ![Screenshot 2023-08-09 at 9 17 14 PM](https://github.com/br4nders0n/team_dollar_project_1/assets/133409952/0958b172-3db0-4cc8-8653-f7edb5e772df)
 
